@@ -9,6 +9,15 @@
     "prettier"
   ],
   "rules": {
+    "no-nested-ternary": [
+      "off"
+    ],
+    "react/no-array-index-key": [
+      false
+    ],
+    "import/prefer-default-export": [
+      true
+    ],
     "import/no-unresolved": [
       false
     ],

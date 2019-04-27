@@ -1,51 +1,46 @@
+import Spinner from 'components/Spinner/Spinner'
 import React, { useEffect, useState } from 'react'
+import { data as consumerAlert } from 'data/consumer-alert.json'
+import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
+
 import './App.css'
+import { random } from '../../helpers'
 
 const App: React.FC = () => {
-  const [alertList, setAlertList] = useState([])
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState({})
-
-  async function getConsumerAlert() {
-    setLoading(true)
-
-    try {
-      const url = 'https://api.bnm.gov.my/public/consumer-alert'
-
-      const response = await fetch(url, {
-        headers: {
-          Accept: 'application/vnd.BNM.API.v1+json',
-        },
-      })
-
-      const json = await response.json()
-
-      setAlertList(json)
-    } catch (e) {
-      setError({ e, msg: 'Error getting consumer alert' })
-    } finally {
-      setLoading(false)
-    }
-  }
+  const [alertList, setAlertList] = useState<any>([])
+  const [loading, setLoading] = useState<boolean>(false)
+  const [error, setError] = useState<any>(null)
 
   useEffect(() => {
-    const res = getConsumerAlert().then(console.log)
+    setLoading(true)
+
+    setTimeout(() => {
+      try {
+        setAlertList(consumerAlert)
+      } catch (e) {
+        setError({ e, msg: 'Error getting list of consumer alert' })
+      } finally {
+        setLoading(false)
+      }
+    }, random(1500, 3000))
   }, [])
 
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {loading ? (
+          <Spinner />
+        ) : error ? (
+          <ErrorMessage str={error.msg} />
+        ) : alertList.length <= 0 ? (
+          'Sorry there is no alert list available'
+        ) : (
+          <ul>
+            {alertList.map((item: any, i: number) => (
+              <li key={i}>{item.name}</li>
+            ))}
+          </ul>
+        )}
       </header>
     </div>
   )
