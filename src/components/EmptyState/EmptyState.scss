@@ -1,3 +1,5 @@
+@import 'variables';
+
 .empty {
   &__state-wrapper {
     display: flex;
@@ -16,6 +18,6 @@
   }
 
   &__default-msg {
-    color: #adabab;
+    color: $gray-400;
   }
 }

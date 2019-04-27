@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import Main from 'components/Main/Main'
-import './index.css'
+import './scss/index.scss'
 import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(<Main />, document.getElementById('root'))
