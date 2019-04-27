@@ -1,7 +1,6 @@
-import uuid from 'uuid/v1'
 import Spinner from 'components/Spinner/Spinner'
 import React, { useEffect, useState } from 'react'
-import { data as consumerAlert } from 'data/consumer-alert.json'
+import { ConsumerAlert, consumerAlert } from 'data/consumer-alert'
 import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.scss'
@@ -18,7 +17,7 @@ const App: React.FC = () => {
 
     setTimeout(() => {
       try {
-        setAlertList([])
+        setAlertList(consumerAlert)
       } catch (e) {
         setError({ e, msg: 'Error getting list of consumer alert' })
       } finally {
@@ -37,8 +36,8 @@ const App: React.FC = () => {
         <EmptyState str="Oops might need to add list here" />
       ) : (
         <ul>
-          {alertList.map((item: any) => (
-            <li key={uuid()}>{item.name}</li>
+          {alertList.map(({ name, id }: ConsumerAlert) => (
+            <li key={id}>{name}</li>
           ))}
         </ul>
       )}
