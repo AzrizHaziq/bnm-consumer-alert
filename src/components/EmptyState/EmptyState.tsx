@@ -1,9 +1,10 @@
 import React from 'react'
-import './EmptyState.css'
+import './EmptyState.scss'
 
 const EmptyState: React.FC<{ str: string }> = ({ str }) => (
-  <div className="empty-state-wrapper">
+  <div className="empty__state-wrapper">
     <svg
+      className="empty__icon"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 1120.59226 777.91584"
@@ -183,7 +184,8 @@ const EmptyState: React.FC<{ str: string }> = ({ str }) => (
         fill="#2f2e41"
       />
     </svg>
-    <p>{str}</p>
+    <p className="empty__msg">{str}</p>
+    <small className="empty__default-msg">Its empty here</small>
   </div>
 )
 
