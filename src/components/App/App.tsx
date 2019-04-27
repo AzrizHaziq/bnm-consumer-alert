@@ -1,3 +1,4 @@
+import uuid from 'uuid/v1'
 import Spinner from 'components/Spinner/Spinner'
 import React, { useEffect, useState } from 'react'
 import { data as consumerAlert } from 'data/consumer-alert.json'
@@ -5,6 +6,7 @@ import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.css'
 import { random } from '../../helpers'
+import EmptyState from '../EmptyState/EmptyState'
 
 const App: React.FC = () => {
   const [alertList, setAlertList] = useState<any>([])
@@ -33,11 +35,11 @@ const App: React.FC = () => {
         ) : error ? (
           <ErrorMessage str={error.msg} />
         ) : alertList.length <= 0 ? (
-          'Sorry there is no alert list available'
+          <EmptyState str="Oops might need to add list here" />
         ) : (
           <ul>
-            {alertList.map((item: any, i: number) => (
-              <li key={i}>{item.name}</li>
+            {alertList.map((item: any) => (
+              <li key={uuid()}>{item.name}</li>
             ))}
           </ul>
         )}
