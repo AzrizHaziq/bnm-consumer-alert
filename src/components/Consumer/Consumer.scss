@@ -1,10 +1,12 @@
 @import 'variables';
 
+$tooltip-bg: rgba(0, 0, 0, 0.25);
+
 .consumer {
   &__list {
     display: flex;
-    align-items: center;
     justify-content: flex-start;
+    align-items: flex-start;
     font-size: 16px;
     padding: 10px 20px;
 
@@ -38,7 +40,28 @@
   }
 
   &__registration-number {
+    position: relative;
     color: $gray-500;
+
+    &:after {
+      display: none;
+      position: absolute;
+      left: 0;
+      top: 25px;
+      width: 120px;
+      content: 'Registration No';
+      background: $tooltip-bg;
+      padding: 5px;
+      text-align: center;
+      border-radius: 5px;
+      font-size: 13px;
+    }
+
+    &:hover {
+      &:after {
+        display: inline-block;
+      }
+    }
   }
 
   &__avatar {
