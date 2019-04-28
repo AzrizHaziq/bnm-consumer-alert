@@ -36,7 +36,13 @@ const App: React.FC = () => {
       ) : alertList === null ? null : alertList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <Consumers item={consumerAlert} />
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-sm-12 col-lg-10">
+              <Consumers item={consumerAlert} />
+            </div>
+          </div>
+        </div>
       )}
     </div>
   )
