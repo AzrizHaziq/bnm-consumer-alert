@@ -1,12 +1,12 @@
 import Spinner from 'components/Spinner/Spinner'
 import React, { useEffect, useState } from 'react'
-import { ConsumerAlert, consumerAlert } from 'data/consumer-alert'
+import { consumerAlert } from 'data/consumer-alert'
 import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.scss'
 import { random } from '../../helpers'
 import EmptyState from '../EmptyState/EmptyState'
-import Consumer from '../Consumer/Consumer'
+import Consumers from '../Consumer/Consumers'
 
 const App: React.FC = () => {
   const [alertList, setAlertList] = useState<any>(null)
@@ -36,11 +36,7 @@ const App: React.FC = () => {
       ) : alertList === null ? null : alertList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <ul className="pl-0 w-100">
-          {alertList.map((item: ConsumerAlert) => (
-            <Consumer key={item.id} item={item} />
-          ))}
-        </ul>
+        <Consumers item={consumerAlert} />
       )}
     </div>
   )
