@@ -6,6 +6,7 @@ import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import './App.scss'
 import { random } from '../../helpers'
 import EmptyState from '../EmptyState/EmptyState'
+import Consumer from '../Consumer/Consumer'
 
 const App: React.FC = () => {
   const [alertList, setAlertList] = useState<any>(null)
@@ -35,9 +36,9 @@ const App: React.FC = () => {
       ) : alertList === null ? null : alertList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <ul>
-          {alertList.map(({ name, id }: ConsumerAlert) => (
-            <li key={id}>{name}</li>
+        <ul className="pl-0 w-100">
+          {alertList.map((item: ConsumerAlert) => (
+            <Consumer key={item.id} item={item} />
           ))}
         </ul>
       )}

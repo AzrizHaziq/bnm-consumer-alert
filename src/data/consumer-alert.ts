@@ -1,5 +1,5 @@
 import uuid from 'uuid/v1'
-import { pipe } from 'helpers/pipe'
+import { pipe } from 'helpers'
 import { data } from 'data/consumer-alert.json'
 import { mapToArray, sortBy } from 'helpers/map-to-array'
 
