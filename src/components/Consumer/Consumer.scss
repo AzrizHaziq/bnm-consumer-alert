@@ -1,0 +1,35 @@
+@import 'variables';
+
+.consumer {
+  &__list {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 16px;
+    padding: 10px 20px;
+
+    & + & {
+      border-top: 1px $midnight-blue solid;
+    }
+  }
+
+  &__list-style {
+    list-style: none;
+  }
+
+  &__avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    box-shadow: $box-shadow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,39 @@
+@import 'variables';
+
+.error {
+  &__message {
+    position: absolute;
+    margin: 0 -15px;
+    background: $alizarin;
+    border: 2px solid $alizarin;
+    padding: 5px 30px;
+    border-radius: 4px;
+    box-shadow: $box-shadow;
+    font-size: 16px;
+    color: white;
+    transition: transform 0.4s ease-in;
+
+    &:hover {
+      transform: translateY(-10px);
+    }
+  }
+
+  &__icon {
+    fill: $alizarin;
+    width: 24px;
+    height: 24px;
+  }
+
+  &__icon-wrapper {
+    position: absolute;
+    left: -15px;
+    top: -10px;
+    background: rgba($light, 0.7);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

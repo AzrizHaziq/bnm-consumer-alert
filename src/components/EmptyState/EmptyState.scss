@@ -1,0 +1,23 @@
+@import 'variables';
+
+.empty {
+  &__state-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  &__icon {
+    width: 400px;
+    height: auto;
+  }
+
+  &__msg {
+    margin-bottom: 0;
+  }
+
+  &__default-msg {
+    color: $gray-400;
+  }
+}
