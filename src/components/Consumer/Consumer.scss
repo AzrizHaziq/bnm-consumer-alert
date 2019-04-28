@@ -19,6 +19,10 @@
 
   &__link {
     color: $gray-400;
+    width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 
     &:hover {
       color: lighten($gray-400, 10%);

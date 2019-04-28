@@ -1,16 +1,23 @@
 import React from 'react'
-import { randomBgCssColor } from 'helpers'
+import uuid from 'uuid/v1'
+import { pipe, randomBgCssColor } from 'helpers'
 import { ConsumerAlert } from 'data/consumer-alert'
 
 import './Consumer.scss'
 
+// eslint-disable-next-line no-useless-escape
+const isValidWebsite = /^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$/
+
 const Link: React.FC<{ url: string }> = ({ url }) => {
-  if (!url) {
+  if (!url || !isValidWebsite.test(url)) {
     return null
   }
 
   // prefix with https:// if string start with www.
-  const makeAValidUrl = url.replace(/^www./, 'https://www.')
+  const makeAValidUrl = pipe(
+    (str: string) => str.replace(/^www./, 'https://www.'),
+    (str: string) => (str.length > 45 ? `${str.slice(0, 45)}...` : str),
+  )(url)
 
   return (
     <li>
@@ -46,15 +53,13 @@ const Consumer: React.FC<{ item: ConsumerAlert }> = ({ item }) => {
           {websites.map(website => {
             const url: any = website.trim()
 
-            console.log(url.split(' '))
-            if (url.split(' ').length > 0) {
-              return (
-                <Link url={url} />
-                // url.map((data: string) => <Link url={data}/>)
-              )
+            if (url.split(' ').length > 1) {
+              return url
+                .split(' ')
+                .map((data: string) => <Link key={uuid()} url={data} />)
             }
 
-            return <Link url={url} />
+            return <Link key={uuid()} url={url} />
           })}
         </ul>
       </div>
