@@ -2,9 +2,10 @@
 
 .consumers {
   &__list {
-    width: auto;
+    max-width: 500px;
     height: 600px;
-    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
     border: 1px solid $midnight-blue;
     box-shadow: $box-shadow;
   }

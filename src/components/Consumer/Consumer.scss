@@ -3,18 +3,34 @@
 .consumer {
   &__list {
     display: flex;
-    justify-content: flex-start;
     align-items: center;
+    justify-content: flex-start;
     font-size: 16px;
     padding: 10px 20px;
 
     & + & {
       border-top: 1px $midnight-blue solid;
     }
+
+    &__websites {
+      padding-left: 0;
+    }
+  }
+
+  &__link {
+    color: $gray-400;
+
+    &:hover {
+      color: lighten($gray-400, 10%);
+    }
   }
 
   &__list-style {
     list-style: none;
+  }
+
+  &__registration-number {
+    color: $gray-500;
   }
 
   &__avatar {
