@@ -5,7 +5,7 @@ import { mapToArray, sortBy } from 'helpers/map-to-array'
 
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
 
-export const consumerAlert: ConsumerAlert[] = data.map(
+export const consumerAlert: IConsumerAlert[] = data.map(
   ({ regisration_number, ...item }) => ({
     ...item,
     id: uuid(),
@@ -13,7 +13,7 @@ export const consumerAlert: ConsumerAlert[] = data.map(
   }),
 )
 
-export interface ConsumerAlert {
+export interface IConsumerAlert {
   id: string
   name: string
   registration_number: string
@@ -21,7 +21,7 @@ export interface ConsumerAlert {
   websites: string[]
 }
 
-export const keywords = (arr: ConsumerAlert[]): Map<string, number> =>
+export const keywords = (arr: IConsumerAlert[]): Map<string, number> =>
   arr.reduce((acc, item) => {
     const { name } = item
 
@@ -49,5 +49,5 @@ export const mostUsedWords = pipe(
   keywords,
   mapToArray,
   sortBy('v', 'desc'),
-  (list: ConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
+  (list: IConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
 )(consumerAlert)

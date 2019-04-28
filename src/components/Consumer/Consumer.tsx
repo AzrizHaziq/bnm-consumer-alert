@@ -1,7 +1,7 @@
 import React from 'react'
 import uuid from 'uuid/v1'
 import { pipe, randomBgCssColor } from 'helpers'
-import { ConsumerAlert } from 'data/consumer-alert'
+import { IConsumerAlert } from 'data/consumer-alert'
 
 import './Consumer.scss'
 
@@ -33,7 +33,7 @@ const Link: React.FC<{ url: string }> = ({ url }) => {
   )
 }
 
-const Consumer: React.FC<{ item: ConsumerAlert }> = ({ item }) => {
+const Consumer: React.FC<{ item: IConsumerAlert }> = ({ item }) => {
   const { name, registration_number, websites } = item
   const avatar = name.slice(0, 2).toUpperCase()
 
