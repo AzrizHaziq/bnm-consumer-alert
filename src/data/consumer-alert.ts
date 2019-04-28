@@ -3,6 +3,8 @@ import { pipe } from 'helpers'
 import { data } from 'data/consumer-alert.json'
 import { mapToArray, sortBy } from 'helpers/map-to-array'
 
+export const PLUCK_MOST_USED_KEYWORDS_BY = 30
+
 export const consumerAlert: ConsumerAlert[] = data.map(
   ({ regisration_number, ...item }) => ({
     ...item,
@@ -47,4 +49,5 @@ export const mostUsedWords = pipe(
   keywords,
   mapToArray,
   sortBy('v', 'desc'),
+  (list: ConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
 )(consumerAlert)
