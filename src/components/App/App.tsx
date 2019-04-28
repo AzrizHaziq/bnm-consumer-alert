@@ -1,6 +1,7 @@
 import Spinner from 'components/Spinner/Spinner'
 import React, { useEffect, useState } from 'react'
 import { consumerAlert } from 'data/consumer-alert'
+import SearchBox from 'components/SearchBox/SearchBox'
 import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.scss'
@@ -36,12 +37,11 @@ const App: React.FC = () => {
       ) : alertList === null ? null : alertList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <div className="container">
-          <div className="row justify-content-center">
-            <div className="col-sm-12 col-lg-10">
-              <Consumers item={consumerAlert} />
-            </div>
-          </div>
+        <div className="container mt-4">
+          <SearchBox />
+          <div className="mb-4" />
+          <Consumers item={consumerAlert} />
+          <div className="mb-4" />
         </div>
       )}
     </div>

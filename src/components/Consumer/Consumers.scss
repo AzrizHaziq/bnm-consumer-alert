@@ -1,16 +1,16 @@
 @import 'variables';
 
+$scrollbar-base: #ddf4f5;
+
 .consumers {
   &__list {
-    height: 100vh;
+    height: calc(100vh - 150px);
     overflow-x: hidden;
     overflow-y: auto;
     border: 1px solid $midnight-blue;
     box-shadow: $box-shadow;
   }
 }
-
-$scrollbar-base: #ddf4f5;
 
 #custom-scrollbar {
   &::-webkit-scrollbar-track {

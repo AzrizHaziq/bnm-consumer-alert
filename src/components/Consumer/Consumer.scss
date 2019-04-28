@@ -1,6 +1,6 @@
 @import 'variables';
 
-$tooltip-bg: rgba(0, 0, 0, 0.25);
+$tooltip-bg: rgba(0, 0, 0, 0.9);
 
 .consumer {
   &__list {
@@ -8,6 +8,7 @@ $tooltip-bg: rgba(0, 0, 0, 0.25);
     justify-content: flex-start;
     align-items: flex-start;
     font-size: 16px;
+    color: $white;
     padding: 10px 20px;
 
     & + & {
@@ -73,6 +74,7 @@ $tooltip-bg: rgba(0, 0, 0, 0.25);
     justify-content: center;
     align-items: center;
     margin-right: 10px;
+    border: 1px solid $white;
   }
 
   &__content {
