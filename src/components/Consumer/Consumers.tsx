@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { IConsumerAlert } from 'data/consumer-alert'
+import { IConsumerAlert } from 'data/consumer-alerts'
 import {
   ConsumerAlertContext,
   IConsumerContext,

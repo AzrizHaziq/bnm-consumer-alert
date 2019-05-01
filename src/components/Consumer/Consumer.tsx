@@ -1,7 +1,7 @@
 import React from 'react'
 import uuid from 'uuid/v1'
 import { pipe, randomBgCssColor } from 'helpers'
-import { IConsumerAlert } from 'data/consumer-alert'
+import { IConsumerAlert } from 'data/consumer-alerts'
 
 import './Consumer.scss'
 

@@ -1,11 +1,11 @@
 import uuid from 'uuid/v1'
-import { pipe } from 'helpers'
+import { escapeRegExp, pipe } from 'helpers'
 import { data } from 'data/consumer-alert.json'
 import { mapToArray, sortBy } from 'helpers/map-to-array'
 
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
 
-export const consumerAlert: IConsumerAlert[] = data.map(
+export const consumerAlerts: IConsumerAlert[] = data.map(
   ({ regisration_number, ...item }) => ({
     ...item,
     id: uuid(),
@@ -50,4 +50,12 @@ export const mostUsedWords = pipe(
   mapToArray,
   sortBy('v', 'desc'),
   (list: IConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
-)(consumerAlert)
+)(consumerAlerts)
+
+export const searchConsumerAlerts = (str: string): IConsumerAlert[] =>
+  consumerAlerts.filter((consumer: IConsumerAlert) => {
+    const reg = new RegExp(escapeRegExp(str), 'ig')
+    const { name } = consumer
+
+    return reg.test(name)
+  })

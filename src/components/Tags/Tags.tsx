@@ -1,6 +1,9 @@
 import React from 'react'
 import uuid from 'uuid/v1'
-import { mostUsedWords, PLUCK_MOST_USED_KEYWORDS_BY } from 'data/consumer-alert'
+import {
+  mostUsedWords,
+  PLUCK_MOST_USED_KEYWORDS_BY,
+} from 'data/consumer-alerts'
 
 import './Tags.scss'
 

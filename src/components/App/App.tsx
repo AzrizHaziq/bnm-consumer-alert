@@ -1,6 +1,6 @@
 import { random } from 'helpers'
 import React, { useEffect, useState } from 'react'
-import { consumerAlert } from 'data/consumer-alert'
+import { consumerAlerts } from 'data/consumer-alerts'
 
 import Tags from 'components/Tags/Tags'
 import Spinner from 'components/Spinner/Spinner'
@@ -22,7 +22,7 @@ const App: React.FC = () => {
 
     setTimeout(() => {
       try {
-        setAlertList(consumerAlert)
+        setAlertList(consumerAlerts)
       } catch (e) {
         setError({ e, msg: 'Error getting list of consumer alert' })
       } finally {

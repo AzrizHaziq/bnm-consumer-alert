@@ -1,5 +1,5 @@
-import { escapeRegExp } from 'helpers'
 import React, { useContext, useState } from 'react'
+import { searchConsumerAlerts } from 'data/consumer-alerts'
 import {
   ConsumerAlertContext,
   IConsumerContext,
@@ -10,9 +10,9 @@ import './SearchBox.scss'
 const SearchBox: React.FC = () => {
   const [value, setValue] = useState('')
 
-  const { consumerList, setConsumerList, resetConsumerList } = useContext<
-    IConsumerContext
-  >(ConsumerAlertContext)
+  const { setConsumerList, resetConsumerList } = useContext<IConsumerContext>(
+    ConsumerAlertContext,
+  )
 
   const onChange = (e: any) => {
     const { value: val } = e.target
@@ -23,12 +23,7 @@ const SearchBox: React.FC = () => {
       return
     }
 
-    const filterConsumerAlerts = consumerList.filter(consumer => {
-      const reg = new RegExp(escapeRegExp(val), 'ig')
-      const { name } = consumer
-
-      return reg.test(name)
-    })
+    const filterConsumerAlerts = searchConsumerAlerts(val)
 
     setConsumerList(filterConsumerAlerts)
   }
