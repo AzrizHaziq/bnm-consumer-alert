@@ -10,7 +10,7 @@ import './SearchBox.scss'
 const SearchBox: React.FC = () => {
   const [value, setValue] = useState('')
 
-  const { consumerAlerts, setConsumerAlerts, resetConsumerAlerts } = useContext<
+  const { consumerList, setConsumerList, resetConsumerList } = useContext<
     IConsumerContext
   >(ConsumerAlertContext)
 
@@ -19,18 +19,18 @@ const SearchBox: React.FC = () => {
     setValue(val)
 
     if (val === '') {
-      resetConsumerAlerts()
+      resetConsumerList()
       return
     }
 
-    const filterConsumerAlerts = consumerAlerts.filter(consumer => {
+    const filterConsumerAlerts = consumerList.filter(consumer => {
       const reg = new RegExp(escapeRegExp(val), 'ig')
       const { name } = consumer
 
       return reg.test(name)
     })
 
-    setConsumerAlerts(filterConsumerAlerts)
+    setConsumerList(filterConsumerAlerts)
   }
 
   return (
