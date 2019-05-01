@@ -2,13 +2,14 @@ import { random } from 'helpers'
 import React, { useEffect, useState } from 'react'
 import { consumerAlerts } from 'data/consumer-alerts'
 
+import Sort from 'components/Sort/Sort'
 import Tags from 'components/Tags/Tags'
 import Spinner from 'components/Spinner/Spinner'
 import Consumers from 'components/Consumer/Consumers'
 import SearchBox from 'components/SearchBox/SearchBox'
 import EmptyState from 'components/EmptyState/EmptyState'
-import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import { ConsumerAlert } from 'data/consumer-alert.context'
+import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.scss'
 
@@ -44,10 +45,12 @@ const App: React.FC = () => {
           <div className="container mt-5">
             <div className="row justify-content-center">
               <div className="col-sm-12 col-lg-10">
-                <h2 className="text-white-50 mb-4">BNM Consumer Alert</h2>
+                <h2 className="text-white-50 mb-4 mr-4">BNM Consumer Alert</h2>
               </div>
             </div>
             <SearchBox />
+            <div className="mb-2" />
+            <Sort />
             <div className="mb-2" />
             <Consumers />
             <div className="mb-5" />
