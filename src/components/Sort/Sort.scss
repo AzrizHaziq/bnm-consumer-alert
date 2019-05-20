@@ -19,9 +19,12 @@
 
   &-alphabet,
   &-date {
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 5px 10px;
     border-radius: 4px;
+    background: lighten($midnight-blue, 5%);
 
     &:hover {
       cursor: pointer;
