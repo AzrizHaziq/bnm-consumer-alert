@@ -52,7 +52,7 @@ const Sort: React.FC = () => {
       setDateOrder('asc')
     }
 
-    const orderedByDate = orderBy('date', alphabetOrder)(consumerList)
+    const orderedByDate = orderBy('added_date', dateOrder)(consumerList)
     setConsumerList(orderedByDate)
   }
 

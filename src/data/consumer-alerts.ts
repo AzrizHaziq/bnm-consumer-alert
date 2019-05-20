@@ -6,9 +6,10 @@ import { mapToArray, sortBy } from 'helpers/map-to-array'
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
 
 export const consumerAlerts: IConsumerAlert[] = data.map(
-  ({ regisration_number, ...item }) => ({
+  ({ regisration_number, added_date, ...item }) => ({
     ...item,
     id: uuid(),
+    added_date: new Date(added_date),
     registration_number: regisration_number,
   }),
 )
@@ -17,7 +18,7 @@ export interface IConsumerAlert {
   id: string
   name: string
   registration_number: string
-  added_date: string
+  added_date: Date
   websites: string[]
 }
 
