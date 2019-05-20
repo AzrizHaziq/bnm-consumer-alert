@@ -8,7 +8,7 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
-    "test:coverage": "CI=true npm test -- --coverage",
+    "test:coverage": "CI=true yarn test -- --coverage",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "precommit": "lint-staged"
