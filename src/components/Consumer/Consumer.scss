@@ -1,20 +1,68 @@
 @import 'variables';
 
+$tooltip-bg: rgba(0, 0, 0, 0.9);
+
 .consumer {
   &__list {
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     font-size: 16px;
+    color: $white;
     padding: 10px 20px;
 
     & + & {
       border-top: 1px $midnight-blue solid;
     }
+
+    &__websites {
+      padding-left: 0;
+    }
+  }
+
+  &__link {
+    color: $gray-400;
+    width: 50px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &:hover {
+      color: lighten($gray-400, 10%);
+    }
+  }
+
+  &--muted {
+    color: $gray-500;
   }
 
   &__list-style {
     list-style: none;
+  }
+
+  &__registration-number {
+    position: relative;
+    color: $gray-500;
+
+    &:after {
+      display: none;
+      position: absolute;
+      left: 0;
+      top: 25px;
+      width: 120px;
+      content: 'Registration No';
+      background: $tooltip-bg;
+      padding: 5px;
+      text-align: center;
+      border-radius: 5px;
+      font-size: 13px;
+    }
+
+    &:hover {
+      &:after {
+        display: inline-block;
+      }
+    }
   }
 
   &__avatar {
@@ -26,10 +74,28 @@
     justify-content: center;
     align-items: center;
     margin-right: 10px;
+    border: 1px solid $white;
   }
 
   &__content {
+    width: 100%;
     display: flex;
     flex-direction: column;
+
+    &__heading {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+
+  &__date-added {
+    svg {
+      width: 15px;
+      height: 15px;
+      fill: $gray-500;
+      margin-right: 5px;
+    }
   }
 }

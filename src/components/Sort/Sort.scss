@@ -1,0 +1,38 @@
+@import 'variables';
+
+.sort {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  &__icon {
+    width: 20px;
+    height: 20px;
+    fill: $white;
+
+    &-arrow {
+      width: 15px;
+      height: 15px;
+      fill: $white;
+    }
+  }
+
+  &-alphabet,
+  &-date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 4px;
+    background: lighten($midnight-blue, 5%);
+
+    &:hover {
+      cursor: pointer;
+      background: $midnight-blue;
+    }
+
+    &.active {
+      background: darken($midnight-blue, 5%);
+    }
+  }
+}

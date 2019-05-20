@@ -2,6 +2,15 @@
 @import '~bootstrap-scss/root';
 @import '~bootstrap-scss/reboot';
 @import '~bootstrap-scss/grid';
+@import '~bootstrap-scss/utilities/flex';
 @import '~bootstrap-scss/utilities/sizing';
 @import '~bootstrap-scss/utilities/spacing';
 @import '~bootstrap-scss/utilities/background';
+
+.text-white-50 {
+  color: rgba($white, 0.5) !important;
+}
+
+.d-inline-block {
+  display: inline-block !important;
+}

@@ -1,12 +1,17 @@
-import Spinner from 'components/Spinner/Spinner'
+import { random } from 'helpers'
 import React, { useEffect, useState } from 'react'
-import { consumerAlert } from 'data/consumer-alert'
+import { consumerAlerts } from 'data/consumer-alerts'
+
+import Sort from 'components/Sort/Sort'
+import Tags from 'components/Tags/Tags'
+import Spinner from 'components/Spinner/Spinner'
+import Consumers from 'components/Consumer/Consumers'
+import SearchBox from 'components/SearchBox/SearchBox'
+import EmptyState from 'components/EmptyState/EmptyState'
+import { ConsumerAlert } from 'data/consumer-alert.context'
 import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 
 import './App.scss'
-import { random } from '../../helpers'
-import EmptyState from '../EmptyState/EmptyState'
-import Consumers from '../Consumer/Consumers'
 
 const App: React.FC = () => {
   const [alertList, setAlertList] = useState<any>(null)
@@ -18,7 +23,7 @@ const App: React.FC = () => {
 
     setTimeout(() => {
       try {
-        setAlertList(consumerAlert)
+        setAlertList(consumerAlerts)
       } catch (e) {
         setError({ e, msg: 'Error getting list of consumer alert' })
       } finally {
@@ -36,7 +41,23 @@ const App: React.FC = () => {
       ) : alertList === null ? null : alertList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <Consumers item={consumerAlert} />
+        <ConsumerAlert>
+          <div className="container mt-5">
+            <div className="row justify-content-center">
+              <div className="col-sm-12 col-lg-10">
+                <h2 className="text-white-50 mb-4 mr-4">BNM Consumer Alert</h2>
+              </div>
+            </div>
+            <SearchBox />
+            <div className="mb-2" />
+            <Sort />
+            <div className="mb-2" />
+            <Consumers />
+            <div className="mb-5" />
+            <Tags />
+            <div className="mb-5" />
+          </div>
+        </ConsumerAlert>
       )}
     </div>
   )

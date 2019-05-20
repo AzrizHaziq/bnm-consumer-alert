@@ -1,11 +1,39 @@
 @import 'variables';
 
+$scrollbar-base: #ddf4f5;
+
 .consumers {
   &__list {
-    width: auto;
-    height: 600px;
-    overflow: auto;
+    height: calc(100vh - 150px);
+    overflow-x: hidden;
+    overflow-y: auto;
     border: 1px solid $midnight-blue;
     box-shadow: $box-shadow;
+  }
+}
+
+#custom-scrollbar {
+  &::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background-color: transparent;
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    background-color: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: black;
+    background-image: -webkit-gradient(
+      linear,
+      40% 0%,
+      75% 84%,
+      from($scrollbar-base),
+      to(lighten($scrollbar-base, 90%)),
+      color-stop(0.6, lighten($scrollbar-base, 50%))
+    );
   }
 }
