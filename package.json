@@ -6,9 +6,9 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
-    "test": "CI=true react-app-rewired test --env=jsdom",
+    "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
-    "test:coverage": "npm test -- --coverage",
+    "test:coverage": "CI=true npm test -- --coverage",
     "precommit": "lint-staged"
   },
   "dependencies": {
