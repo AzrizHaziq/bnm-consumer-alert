@@ -3,6 +3,7 @@ import {
   ConsumerAlertContext,
   IConsumerContext,
 } from 'data/consumer-alert.context'
+import { orderBy } from 'data/consumer-alerts'
 import './Sort.scss'
 
 const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }) =>
@@ -35,6 +36,9 @@ const Sort: React.FC = () => {
     } else if (alphabetOrder === 'desc') {
       setAlphabetOrder('asc')
     }
+
+    const orderedByName = orderBy('name', alphabetOrder)(consumerList)
+    setConsumerList(orderedByName)
   }
 
   function toggleDate() {
@@ -47,6 +51,9 @@ const Sort: React.FC = () => {
     } else if (dateOrder === 'desc') {
       setDateOrder('asc')
     }
+
+    const orderedByDate = orderBy('date', alphabetOrder)(consumerList)
+    setConsumerList(orderedByDate)
   }
 
   return (

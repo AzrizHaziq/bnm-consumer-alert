@@ -59,3 +59,9 @@ export const searchConsumerAlerts = (str: string): IConsumerAlert[] =>
 
     return reg.test(name)
   })
+
+export const orderBy = (key: string, by: 'asc' | 'desc') =>
+  pipe(
+    sortBy(key, by),
+    (list: IConsumerAlert[]) => [...list],
+  )
