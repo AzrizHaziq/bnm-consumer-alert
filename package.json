@@ -1,6 +1,6 @@
 {
   "name": "bnm-consumer-alert",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "homepage": "https://AzrizHaziq.github.io/bnm-consumer-alert/",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "react-app-rewired build",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
-    "test:coverage": "CI=true npm test -- --coverage",
+    "test:coverage": "CI=true yarn test -- --coverage",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "precommit": "lint-staged"
