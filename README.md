@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot
+![website screenshot](https://raw.githubusercontent.com/AzrizHaziq/bnm-consumer-alert/master/public/azrizhaziq.github.io_bnm-consumer-alert_.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
