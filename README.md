@@ -3,6 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshot
 ![website screenshot](https://raw.githubusercontent.com/AzrizHaziq/bnm-consumer-alert/master/public/azrizhaziq.github.io_bnm-consumer-alert_.png)
 
+## BNM Malaysia
+API: https://api.bnm.gov.my/portal
+
 ## Available Scripts
 
 In the project directory, you can run:
