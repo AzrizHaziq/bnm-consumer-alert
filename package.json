@@ -12,7 +12,8 @@
     "test:coverage": "CI=true yarn test -- --coverage",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "update-consumer-data": "node update-consumer-json.js"
   },
   "dependencies": {
     "@types/jest": "24.0.11",
