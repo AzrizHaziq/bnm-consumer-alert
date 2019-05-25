@@ -14,7 +14,9 @@ import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import './App.scss'
 
 const App: React.FC = () => {
-  const [consumerList, setConsumerList] = useState<IConsumerAlert[]>([])
+  const [consumerList, setConsumerList] = useState<IConsumerAlert[] | null>(
+    null,
+  )
   const [loading, setLoading] = useState<boolean>(false)
   const [error, setError] = useState<any>(null)
 

@@ -15,7 +15,7 @@ const SearchBox: React.FC = () => {
   >(ConsumerAlertContext)
 
   function onChange(e: any) {
-    const { value: input } = e.target
+    const input = e.target.value
     setValue(input)
 
     if (input === '') {
