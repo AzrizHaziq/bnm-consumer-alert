@@ -1,18 +1,6 @@
-import uuid from 'uuid/v1'
-import { data } from 'data/consumer-alert.json'
-import { pipe, randomBgCssColor, mapToArray, sortBy } from 'helpers'
+import { pipe, mapToArray, sortBy } from 'helpers'
 
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
-
-export const consumerAlerts: IConsumerAlert[] = data.map(
-  ({ regisration_number, added_date, ...item }) => ({
-    ...item,
-    id: uuid(),
-    added_date: new Date(added_date),
-    registration_number: regisration_number,
-    bg_color: randomBgCssColor(),
-  }),
-)
 
 export interface IConsumerAlert {
   id: string

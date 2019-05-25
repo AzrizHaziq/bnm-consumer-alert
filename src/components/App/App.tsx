@@ -1,6 +1,5 @@
-import { random } from 'helpers'
 import React, { useEffect, useState } from 'react'
-import { consumerAlerts, IConsumerAlert } from 'data/consumer-alerts'
+import { IConsumerAlert } from 'data/consumer-alerts'
 
 import Sort from 'components/Sort/Sort'
 import Tags from 'components/Tags/Tags'
@@ -15,24 +14,38 @@ import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import './App.scss'
 
 const App: React.FC = () => {
+  const [error, setError] = useState<any>(null)
+  const [loading, setLoading] = useState<boolean>(false)
   const [consumerList, setConsumerList] = useState<IConsumerAlert[] | null>(
     null,
   )
-  const [loading, setLoading] = useState<boolean>(false)
-  const [error, setError] = useState<any>(null)
+
+  async function getConsumerAlerts() {
+    try {
+      const res = await fetch(
+        'https://raw.githubusercontent.com/AzrizHaziq/bnm-consumer-alert/master/consumer-alert.json',
+      )
+      const consumerAlertsResponse = await res.json()
+
+      const reMapConsumerAlertResponse = consumerAlertsResponse.data.map(
+        (consumer: IConsumerAlert) => ({
+          ...consumer,
+          added_date: new Date(consumer.added_date),
+        }),
+      )
+
+      setConsumerList(reMapConsumerAlertResponse)
+    } catch (e) {
+      setError({ e, msg: 'Error getting list of consumer alert' })
+    } finally {
+      setLoading(false)
+    }
+  }
 
   useEffect(() => {
     setLoading(true)
 
-    setTimeout(() => {
-      try {
-        setConsumerList(consumerAlerts)
-      } catch (e) {
-        setError({ e, msg: 'Error getting list of consumer alert' })
-      } finally {
-        setLoading(false)
-      }
-    }, random(1500, 3000))
+    getConsumerAlerts()
   }, [])
 
   return (
