@@ -1,5 +1,5 @@
-import React, { createContext, useState } from 'react'
-import { consumerAlerts, IConsumerAlert } from 'data/consumer-alerts'
+import React, { createContext, ReactNode, useState } from 'react'
+import { IConsumerAlert } from 'data/consumer-alerts'
 
 const ConsumerAlertContext = createContext<IConsumerContext>({
   consumerList: [],
@@ -9,13 +9,14 @@ const ConsumerAlertContext = createContext<IConsumerContext>({
 
 const ConsumerAlertProvider = ConsumerAlertContext.Provider
 
-function ConsumerAlert({ children }: any) {
-  const [consumerList, setConsumerList] = useState<IConsumerAlert[]>(
-    consumerAlerts,
-  )
+const ConsumerAlert = ({
+  consumerList: consumers,
+  children,
+}: IConsumerAlertProp) => {
+  const [consumerList, setConsumerList] = useState<IConsumerAlert[]>(consumers)
 
   function resetConsumerList() {
-    setConsumerList(consumerAlerts)
+    setConsumerList(consumers)
   }
 
   return (
@@ -37,4 +38,9 @@ export interface IConsumerContext {
   consumerList: IConsumerAlert[]
   setConsumerList: Function
   resetConsumerList: Function
+}
+
+interface IConsumerAlertProp {
+  consumerList: IConsumerAlert[]
+  children: ReactNode
 }

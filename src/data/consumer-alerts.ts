@@ -1,7 +1,12 @@
 import uuid from 'uuid/v1'
-import { escapeRegExp, pipe } from 'helpers'
 import { data } from 'data/consumer-alert.json'
-import { mapToArray, sortBy } from 'helpers/map-to-array'
+import {
+  escapeRegExp,
+  pipe,
+  randomBgCssColor,
+  mapToArray,
+  sortBy,
+} from 'helpers'
 
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
 
@@ -11,6 +16,7 @@ export const consumerAlerts: IConsumerAlert[] = data.map(
     id: uuid(),
     added_date: new Date(added_date),
     registration_number: regisration_number,
+    bg_color: randomBgCssColor(),
   }),
 )
 
@@ -20,6 +26,7 @@ export interface IConsumerAlert {
   registration_number: string
   added_date: Date
   websites: string[]
+  bg_color: string
 }
 
 export const keywords = (arr: IConsumerAlert[]): Map<string, number> =>
@@ -51,7 +58,7 @@ export const mostUsedWords = pipe(
   mapToArray,
   sortBy('v', 'desc'),
   (list: IConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
-)(consumerAlerts)
+)
 
 export const searchConsumerAlerts = (str: string): IConsumerAlert[] =>
   consumerAlerts.filter((consumer: IConsumerAlert) => {

@@ -1,6 +1,6 @@
 import { random } from 'helpers'
 import React, { useEffect, useState } from 'react'
-import { consumerAlerts } from 'data/consumer-alerts'
+import { consumerAlerts, IConsumerAlert } from 'data/consumer-alerts'
 
 import Sort from 'components/Sort/Sort'
 import Tags from 'components/Tags/Tags'
@@ -14,7 +14,7 @@ import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import './App.scss'
 
 const App: React.FC = () => {
-  const [alertList, setAlertList] = useState<any>(null)
+  const [consumerList, setConsumerList] = useState<IConsumerAlert[]>([])
   const [loading, setLoading] = useState<boolean>(false)
   const [error, setError] = useState<any>(null)
 
@@ -23,7 +23,7 @@ const App: React.FC = () => {
 
     setTimeout(() => {
       try {
-        setAlertList(consumerAlerts)
+        setConsumerList(consumerAlerts)
       } catch (e) {
         setError({ e, msg: 'Error getting list of consumer alert' })
       } finally {
@@ -38,10 +38,10 @@ const App: React.FC = () => {
         <Spinner />
       ) : error ? (
         <ErrorMessage str={error.msg} />
-      ) : alertList === null ? null : alertList.length <= 0 ? (
+      ) : consumerList === null ? null : consumerList.length <= 0 ? (
         <EmptyState str="Oops might need to add list here" />
       ) : (
-        <ConsumerAlert>
+        <ConsumerAlert consumerList={consumerList}>
           <div className="container mt-5">
             <div className="row justify-content-center">
               <div className="col-sm-12 col-lg-10">
