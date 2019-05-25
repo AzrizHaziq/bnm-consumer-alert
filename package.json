@@ -2,6 +2,7 @@
   "name": "bnm-consumer-alert",
   "version": "0.1.2",
   "private": false,
+  "license": "MIT",
   "homepage": "https://azrizhaziq.github.io/bnm-consumer-alert/",
   "scripts": {
     "start": "react-app-rewired start",

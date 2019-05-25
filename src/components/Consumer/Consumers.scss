@@ -4,7 +4,8 @@ $scrollbar-base: #ddf4f5;
 
 .consumers {
   &__list {
-    height: calc(100vh - 150px);
+    height: auto;
+    max-height: calc(100vh - 150px);
     overflow-x: hidden;
     overflow-y: auto;
     border: 1px solid $midnight-blue;

@@ -1,29 +1,36 @@
 import React, { useContext, useState } from 'react'
-import { searchConsumerAlerts } from 'data/consumer-alerts'
+import { IConsumerAlert } from 'data/consumer-alerts'
+import { escapeRegExp } from 'helpers'
 import {
   ConsumerAlertContext,
   IConsumerContext,
 } from 'data/consumer-alert.context'
-
 import './SearchBox.scss'
 
 const SearchBox: React.FC = () => {
   const [value, setValue] = useState('')
 
-  const { setConsumerList, resetConsumerList } = useContext<IConsumerContext>(
-    ConsumerAlertContext,
-  )
+  const { consumerList, setConsumerList, resetConsumerList } = useContext<
+    IConsumerContext
+  >(ConsumerAlertContext)
 
-  const onChange = (e: any) => {
-    const { value: val } = e.target
-    setValue(val)
+  function onChange(e: any) {
+    const { value: input } = e.target
+    setValue(input)
 
-    if (val === '') {
+    if (input === '') {
       resetConsumerList()
       return
     }
 
-    const filterConsumerAlerts = searchConsumerAlerts(val)
+    const filterConsumerAlerts: IConsumerAlert[] = consumerList.filter(
+      (consumer: IConsumerAlert) => {
+        const reg = new RegExp(escapeRegExp(input), 'ig')
+        const { name } = consumer
+
+        return reg.test(name)
+      },
+    )
 
     setConsumerList(filterConsumerAlerts)
   }

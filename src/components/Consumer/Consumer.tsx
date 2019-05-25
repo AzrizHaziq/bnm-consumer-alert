@@ -1,6 +1,6 @@
 import React from 'react'
 import uuid from 'uuid/v1'
-import { pipe, randomBgCssColor } from 'helpers'
+import { pipe } from 'helpers'
 import { IConsumerAlert } from 'data/consumer-alerts'
 
 import './Consumer.scss'
@@ -34,14 +34,14 @@ const Link: React.FC<{ url: string }> = ({ url }) => {
 }
 
 const Consumer: React.FC<{ item: IConsumerAlert }> = ({ item }) => {
-  const { name, registration_number, websites, added_date } = item
+  const { name, registration_number, websites, added_date, bg_color } = item
   const avatar = name.slice(0, 2).toUpperCase()
 
   const date = `${added_date.getDate()}/${added_date.getMonth()}/${added_date.getFullYear()}`
 
   return (
     <li className="consumer__list consumer__list-style">
-      <div className={`consumer__avatar ${randomBgCssColor()}`}>{avatar}</div>
+      <div className={`consumer__avatar ${bg_color}`}>{avatar}</div>
       <div className="consumer__content">
         <div className="consumer__content__heading">
           <p className="mb-0">
