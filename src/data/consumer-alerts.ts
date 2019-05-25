@@ -1,12 +1,6 @@
 import uuid from 'uuid/v1'
 import { data } from 'data/consumer-alert.json'
-import {
-  escapeRegExp,
-  pipe,
-  randomBgCssColor,
-  mapToArray,
-  sortBy,
-} from 'helpers'
+import { pipe, randomBgCssColor, mapToArray, sortBy } from 'helpers'
 
 export const PLUCK_MOST_USED_KEYWORDS_BY = 30
 
