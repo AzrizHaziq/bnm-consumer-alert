@@ -11,6 +11,15 @@ $scrollbar-base: #ddf4f5;
     border: 1px solid $midnight-blue;
     box-shadow: $box-shadow;
   }
+
+  &__empty {
+    color: $gray-400;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px 25px;
+    background: $midnight-blue;
+    border: 1px solid darken($midnight-blue, 5%);
+  }
 }
 
 #custom-scrollbar {
