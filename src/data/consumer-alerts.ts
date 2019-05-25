@@ -60,14 +60,6 @@ export const mostUsedWords = pipe(
   (list: IConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
 )
 
-export const searchConsumerAlerts = (str: string): IConsumerAlert[] =>
-  consumerAlerts.filter((consumer: IConsumerAlert) => {
-    const reg = new RegExp(escapeRegExp(str), 'ig')
-    const { name } = consumer
-
-    return reg.test(name)
-  })
-
 export const orderBy = (key: string, by: 'asc' | 'desc') =>
   pipe(
     sortBy(key, by),
