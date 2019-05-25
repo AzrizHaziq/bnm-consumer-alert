@@ -54,7 +54,7 @@ const App: React.FC = () => {
             <div className="mb-2" />
             <Consumers />
             <div className="mb-5" />
-            <Tags />
+            <Tags consumerList={consumerList} />
             <div className="mb-5" />
           </div>
         </ConsumerAlert>

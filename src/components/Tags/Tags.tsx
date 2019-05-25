@@ -1,19 +1,14 @@
-import React, { useContext } from 'react'
+import React from 'react'
 import uuid from 'uuid/v1'
 import {
-  ConsumerAlertContext,
-  IConsumerContext,
-} from 'data/consumer-alert.context'
-import {
+  IConsumerAlert,
   mostUsedWords,
   PLUCK_MOST_USED_KEYWORDS_BY,
 } from 'data/consumer-alerts'
 
 import './Tags.scss'
 
-const Tags: React.FC = () => {
-  const { consumerList } = useContext<IConsumerContext>(ConsumerAlertContext)
-
+const Tags: React.FC<ITagProps> = ({ consumerList }) => {
   const tags = mostUsedWords(consumerList)
 
   return (
@@ -33,3 +28,7 @@ const Tags: React.FC = () => {
 }
 
 export default Tags
+
+interface ITagProps {
+  consumerList: IConsumerAlert[]
+}
