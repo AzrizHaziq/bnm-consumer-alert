@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react'
 import {
   ConsumerAlertContext,
   IConsumerContext,
-} from 'data/consumer-alert.context'
+} from 'data/Consumer.context/consumer-alert.context'
 import { orderBy } from 'data/consumer-alerts'
 import './Sort.scss'
 
