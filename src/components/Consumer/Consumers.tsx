@@ -1,25 +1,49 @@
+import { escapeRegExp } from 'helpers'
 import React, { useContext } from 'react'
+import EmptyState from 'components/EmptyState/EmptyState'
+import Consumer from 'components/Consumer/Consumer'
+
 import { IConsumerAlert } from 'data/consumer-alerts'
 import {
   ConsumerAlertContext,
   IConsumerContext,
-} from 'data/consumer-alert.context'
+} from 'data/Consumer.context/consumer-alert.context'
+import {
+  ISearchContext,
+  SearchContext,
+} from 'data/Search.context/search.context'
 
 import './Consumers.scss'
-import Consumer from './Consumer'
 
 const Consumers: React.FC = () => {
+  const { currentSearch } = useContext<ISearchContext>(SearchContext)
   const { consumerList } = useContext<IConsumerContext>(ConsumerAlertContext)
+
+  // if there is currentSearch then filter it, otherwise show all
+  const filterConsumerAlerts: IConsumerAlert[] = consumerList.filter(
+    (consumer: IConsumerAlert) => {
+      if (currentSearch === '') {
+        return true
+      }
+
+      const reg = new RegExp(escapeRegExp(currentSearch), 'ig')
+      const { name } = consumer
+
+      return reg.test(name)
+    },
+  )
 
   return (
     <div className="row justify-content-center">
       <div className="col-sm-12 col-lg-10">
-        {consumerList.length <= 0 ? (
-          <div className="consumers__empty">Please search other</div>
+        {filterConsumerAlerts.length <= 0 ? (
+          <div className="p-5">
+            <EmptyState str={"Oopss can't find that one, look forward"} />
+          </div>
         ) : (
           <div className="consumers__list" id="custom-scrollbar">
             <ul className="pl-0 w-100 mb-0">
-              {consumerList.map((data: IConsumerAlert) => (
+              {filterConsumerAlerts.map((data: IConsumerAlert) => (
                 <Consumer key={data.id} item={data} />
               ))}
             </ul>

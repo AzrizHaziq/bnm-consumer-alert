@@ -1,38 +1,17 @@
-import React, { useContext, useState } from 'react'
-import { IConsumerAlert } from 'data/consumer-alerts'
-import { escapeRegExp } from 'helpers'
+import React, { useContext } from 'react'
 import {
-  ConsumerAlertContext,
-  IConsumerContext,
-} from 'data/consumer-alert.context'
+  ISearchContext,
+  SearchContext,
+} from 'data/Search.context/search.context'
+
 import './SearchBox.scss'
 
 const SearchBox: React.FC = () => {
-  const [value, setValue] = useState('')
-
-  const { consumerList, setConsumerList, resetConsumerList } = useContext<
-    IConsumerContext
-  >(ConsumerAlertContext)
+  const { currentSearch, setSearch } = useContext<ISearchContext>(SearchContext)
 
   function onChange(e: any) {
     const input = e.target.value
-    setValue(input)
-
-    if (input === '') {
-      resetConsumerList()
-      return
-    }
-
-    const filterConsumerAlerts: IConsumerAlert[] = consumerList.filter(
-      (consumer: IConsumerAlert) => {
-        const reg = new RegExp(escapeRegExp(input), 'ig')
-        const { name } = consumer
-
-        return reg.test(name)
-      },
-    )
-
-    setConsumerList(filterConsumerAlerts)
+    setSearch(input)
   }
 
   return (
@@ -43,7 +22,7 @@ const SearchBox: React.FC = () => {
           name="search-box"
           className="form__search"
           placeholder="Abu & Ali Sdn Bhd"
-          value={value}
+          value={currentSearch}
           onChange={onChange}
         />
       </div>
