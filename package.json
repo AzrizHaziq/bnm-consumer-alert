@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@types/uuid": "3.4.4",
-    "eslint": "5.16.0",
+    "eslint": "6.0.1",
     "eslint-config-airbnb": "17.1.0",
     "eslint-config-prettier": "4.1.0",
     "eslint-plugin-import": "2.17.2",
