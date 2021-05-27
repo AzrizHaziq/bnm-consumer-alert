@@ -1,9 +1,9 @@
+import uuid from 'uuid/v1'
 import { escapeRegExp } from 'helpers'
 import React, { useContext } from 'react'
-import EmptyState from 'components/EmptyState/EmptyState'
-import Consumer from 'components/Consumer/Consumer'
-
 import { IConsumerAlert } from 'data/consumer-alerts'
+import Consumer from 'components/Consumer/Consumer'
+import EmptyState from 'components/EmptyState/EmptyState'
 import {
   ConsumerAlertContext,
   IConsumerContext,
@@ -44,7 +44,7 @@ const Consumers: React.FC = () => {
           <div className="consumers__list" id="custom-scrollbar">
             <ul className="pl-0 w-100 mb-0">
               {filterConsumerAlerts.map((data: IConsumerAlert) => (
-                <Consumer key={data.id} item={data} />
+                <Consumer key={uuid()} item={data} />
               ))}
             </ul>
           </div>
