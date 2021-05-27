@@ -1,3886 +1,3024 @@
 {
   "meta": {
-    "last_updated": "2019-01-17 15:49:33",
+    "last_updated": "2020-07-14 22:32:10",
     "total_result": 431
   },
   "data": [
     {
-      "name": "1globalcash",
       "websites": [],
-      "id": "6ee486e0-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "1globalcash",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "1Gold.com.my",
       "websites": [
         "www.1gold.com.my"
       ],
-      "id": "6ee4adf0-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "1Gold.com.my",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "3Sixty Venture Capital PLC",
       "websites": [
         "www.empire3sixty.com http://forum.putera.com/tanya/index.php?/topic/92929-3sixty-ventureanda-mahu-income-pasif-rm1500-setiap-hari/"
       ],
-      "id": "6ee4adf1-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "3Sixty Venture Capital PLC",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "A.A.M Global Corporation Sdn Bhd",
-      "websites": [],
-      "id": "6ee4adf2-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Ace Global Sales & Services",
-      "websites": [],
-      "id": "6ee4adf3-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Ace Dimension Network Sdn Bhd",
       "websites": [],
-      "id": "6ee4adf4-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ace Dimension Network Sdn Bhd",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "AE Group Holding Pte. Ltd.",
       "websites": [
         "http://www.aevfc.com"
       ],
-      "id": "6ee4adf5-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "AE Group Holding Pte. Ltd. (201322498-D)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "201322498D",
-      "bg_color": "bg-primary"
+      "registration_number": "201322498-D"
     },
     {
-      "name": "Agarwood Venture",
       "websites": [],
-      "id": "6ee4adf6-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Agarwood Venture   (002273031-A)",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "002273031A",
-      "bg_color": "bg-info"
+      "registration_number": "002273031-A"
     },
     {
-      "name": "Agar Wood Chamber of Commerce Malaysia",
       "websites": [],
-      "id": "6ee4adf7-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Agar Wood Chamber of Commerce Malaysia",
       "added_date": "2015-05-21T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Ahmad Zulkhairi Associates PLT",
       "websites": [
         "http://www.fx10capital.com "
       ],
-      "id": "6ee4adf8-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ahmad Zulkhairi Associates PLT (LLP0009065)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "LLP0009065",
-      "bg_color": "bg-primary"
+      "registration_number": "LLP0009065"
     },
     {
-      "name": "Ajuwah Realty Sdn Bhd",
       "websites": [],
-      "id": "6ee4adf9-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ajuwah Realty Sdn Bhd  (966604-D)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "966604D",
-      "bg_color": "bg-danger"
+      "registration_number": "966604-D"
     },
     {
-      "name": "Ajuwah Agencies Sdn Bhd",
       "websites": [],
-      "id": "6ee4adfa-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ajuwah Agencies Sdn Bhd  (966604-D)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "966604D",
-      "bg_color": "bg-danger"
+      "registration_number": "966604-D"
     },
     {
+      "websites": [],
       "name": "Ajuwah Consultancy",
-      "websites": [],
-      "id": "6ee4adfb-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-05-21T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Alpari (Asian) Ltd",
-      "websites": [],
-      "id": "6ee4adfc-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-05-21T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": "Asian"
     },
     {
-      "name": "Al-Saliha Worlwide Sdn. Bhd.",
       "websites": [],
-      "id": "6ee4adfd-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Al-Saliha Worlwide Sdn. Bhd. (628267-M)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "628267M",
-      "bg_color": "bg-danger"
+      "registration_number": "628267-M"
     },
     {
-      "name": "Amazing Yields Sdn Bhd",
       "websites": [],
-      "id": "6ee4adfe-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Amazing Yields Sdn Bhd  (891529-V)",
       "added_date": "2013-01-23T00:00:00.000Z",
-      "registration_number": "891529V",
-      "bg_color": "bg-info"
+      "registration_number": "891529-V"
     },
     {
-      "name": "Amethyst Gold Creation Sdn Bhd",
       "websites": [
         "www.powergoldclub.com www.powergold999.com",
         "www.powergold.biz"
       ],
-      "id": "6ee4adff-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Amethyst Gold Creation Sdn Bhd  (951063-K)",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "951063K",
-      "bg_color": "bg-success"
+      "registration_number": "951063-K"
     },
     {
-      "name": "Applikasi Duit",
       "websites": [
         "http://www.aplikasiduit.com  ",
         "https://www.facebook.com/aplikasiduitandroid/"
       ],
-      "id": "6ee4ae00-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Applikasi Duit",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "APS Asia Plantation Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae01-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "APS Asia Plantation Sdn Bhd (984575-T)",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "984575T",
-      "bg_color": "bg-info"
+      "registration_number": "984575-T"
     },
     {
-      "name": "Arba Emas Perak",
       "websites": [
         "http://www.arbaemasperak.com"
       ],
-      "id": "6ee4ae02-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Arba Emas Perak   (SA0280035-A)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "SA0280035A",
-      "bg_color": "bg-warning"
+      "registration_number": "SA0280035-A"
     },
     {
-      "name": "ARS Ultimate Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae03-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "ARS Ultimate Sdn Bhd (1268778 - A)",
       "added_date": "2018-08-06T00:00:00.000Z",
-      "registration_number": "1268778A",
-      "bg_color": "bg-dark"
+      "registration_number": "1268778 - A"
     },
     {
-      "name": "Aruna Travel",
       "websites": [],
-      "id": "6ee4ae04-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Aruna Travel",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Arribhu Suci Enterpise",
       "websites": [
         "http://www.premierfxmarket.com"
       ],
-      "id": "6ee4ae05-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Arribhu Suci Enterpise",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Asas Seroja Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae06-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Asas Seroja Sdn Bhd (357014A)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "357014A",
-      "bg_color": "bg-dark"
+      "registration_number": "357014A"
     },
     {
-      "name": "Ascada Kiraana Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae07-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ascada Kiraana Sdn Bhd (1225011A)",
       "added_date": "2017-12-06T00:00:00.000Z",
-      "registration_number": "1225011A",
-      "bg_color": "bg-info"
+      "registration_number": "1225011A"
     },
     {
-      "name": "Asia Equity Ventures",
       "websites": [
         "www.asian-equity.com"
       ],
-      "id": "6ee4ae08-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Asia Equity Ventures (002576131V)",
       "added_date": "2018-10-10T00:00:00.000Z",
-      "registration_number": "002576131V",
-      "bg_color": "bg-info"
+      "registration_number": "002576131V"
     },
     {
-      "name": "Ashnik Holdings (M) Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae09-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ashnik Holdings (M) Sdn Bhd (1124601D)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1124601D",
-      "bg_color": "bg-dark"
+      "registration_number": "M Sdn Bhd 1124601D"
     },
     {
-      "name": "Ashnik Trading",
       "websites": [],
-      "id": "6ee4ae0a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ashnik Trading (002369914-W)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "002369914W",
-      "bg_color": "bg-primary"
+      "registration_number": "002369914-W"
     },
     {
-      "name": "AsiaLink Globe Capital",
       "websites": [
         "www.com-agc.com"
       ],
-      "id": "6ee4ae0b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "AsiaLink Globe Capital",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Astral Progress Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae0c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Astral Progress Sdn Bhd  (989294-K)",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "989294K",
-      "bg_color": "bg-info"
+      "registration_number": "989294-K"
     },
     {
-      "name": "Asset Growth Solution Enterprise",
       "websites": [
         "http://www.aplikasiduit.com  ",
         "https://www.facebook.com/aplikasiduitandroid/"
       ],
-      "id": "6ee4ae0d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Asset Growth Solution Enterprise (002552148 - K)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "002552148K",
-      "bg_color": "bg-secondary"
+      "registration_number": "002552148 - K"
     },
     {
-      "name": "Atlantic Global Asset Management (AGAM)",
       "websites": [
         "https://atlanticgam.es",
         "https://private.atlanticgam.es/#/signup/partner=P09201446202971"
       ],
-      "id": "6ee4ae0e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Atlantic Global Asset Management (AGAM)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": "AGAM"
     },
     {
-      "name": "AU Niaga Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae0f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "AU Niaga Sdn Bhd (907806-W)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "907806W",
-      "bg_color": "bg-dark"
+      "registration_number": "907806-W"
     },
     {
+      "websites": [],
       "name": "AU79 International",
-      "websites": [],
-      "id": "6ee4ae10-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Auto Trading Management",
       "websites": [
         "https://www.facebook.com/simplyfxmalaysia/"
       ],
-      "id": "6ee4ae11-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Auto Trading Management",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Aurawave Marketing Sdn. Bhd",
       "websites": [
         "http://www.aurawave2u.com"
       ],
-      "id": "6ee4ae12-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Aurawave Marketing Sdn. Bhd",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Axis Capital Corporation Ltd",
       "websites": [
         "www.axiscapitalcorp.com"
       ],
-      "id": "6ee4ae13-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Axis Capital Corporation Ltd",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Aziera Gold Enterprise",
       "websites": [],
-      "id": "6ee4ae14-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Aziera Gold Enterprise (NS0133976-K)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "NS0133976K",
-      "bg_color": "bg-secondary"
+      "registration_number": "NS0133976-K"
     },
     {
-      "name": "BC Academy Sdn Bhd",
       "websites": [
         "www.bookcoinsmalaysia.com"
       ],
-      "id": "6ee4ae15-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BC Academy Sdn Bhd",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "BC Bullion Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae16-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BC Bullion Sdn Bhd",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "BDIG Investment Scheme",
       "websites": [
         "https://www.facebook.com/BDIGroupMalaysia/",
         "https://www.facebook.com/TeamDoubleProfit/ https://www.facebook.com/smartBDIG/ https://www.facebook.com/BdiGroups-Malaysia-1937078139955774/"
       ],
-      "id": "6ee4ae17-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BDIG Investment Scheme",
       "added_date": "2018-07-11T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Berkat FD Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae18-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Berkat FD Sdn Bhd",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "BFS Markets Ltd",
       "websites": [
         "www.bfsforex.com"
       ],
-      "id": "6ee4ae19-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BFS Markets Ltd",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Binary Indulgence Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae1a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Binary Indulgence Sdn Bhd   (963258-W)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "963258W",
-      "bg_color": "bg-primary"
+      "registration_number": "963258-W"
     },
     {
-      "name": "Bitclub Network",
       "websites": [
         "https://bitclubnetwork.com/opportunity.html",
         "https://www.facebook.com/bitclubnetwork.BCN/"
       ],
-      "id": "6ee4ae1b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Bitclub Network",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "BitKingdom",
       "websites": [
         "www.bitkingdom.org"
       ],
-      "id": "6ee4ae1c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BitKingdom",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "BSG- Buat.Simpan.Ganda",
       "websites": [
         "www.bsg.my",
         "www.bsg.my/arib www.bsg.my/atsproject https://www.facebook.com/atsproject"
       ],
-      "id": "6ee4ae1d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "BSG- Buat.Simpan.Ganda",
       "added_date": "2017-12-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Build Rich Mining Group Bhd",
       "websites": [
         "www.buildrich.us"
       ],
-      "id": "6ee4ae1e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Build Rich Mining Group Bhd (1006586-T)",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "1006586T",
-      "bg_color": "bg-danger"
+      "registration_number": "1006586-T"
     },
     {
+      "websites": [],
       "name": "Build Rich Investment Group Ltd",
-      "websites": [],
-      "id": "6ee4ae1f-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Build Rich Group Holding",
-      "websites": [],
-      "id": "6ee4ae20-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Build Rich Agrotech Berhad",
-      "websites": [],
-      "id": "6ee4ae21-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Build Rich Enterprise",
-      "websites": [],
-      "id": "6ee4ae22-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Bumi Klasik Warisan Enterprise",
       "websites": [],
-      "id": "6ee4ae23-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Bumi Klasik Warisan Enterprise",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Capital Asia Group (M) Sdn Bhd",
       "websites": [
         "www.capitalasiagroup.com"
       ],
-      "id": "6ee4ae24-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Capital Asia Group (M) Sdn Bhd",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Carbon Cash Bhd",
       "websites": [
         "http://carbontoken.com/",
         "http://goalgreen2u.com"
       ],
-      "id": "6ee4ae25-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Carbon Cash Bhd  (1218702-K)",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "1218702K",
-      "bg_color": "bg-danger"
+      "registration_number": "1218702-K"
     },
     {
-      "name": "Carousell Capital",
       "websites": [],
-      "id": "6ee4ae26-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Carousell Capital (0000140783T)",
       "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "0000140783T",
-      "bg_color": "bg-dark"
+      "registration_number": "0000140783T"
     },
     {
-      "name": "Cash Deal Sdn Bhd (Boss Venture)",
       "websites": [
         "www.bossventure.com"
       ],
-      "id": "6ee4ae27-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Cash Deal Sdn Bhd (Boss Venture)",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": "Boss Venture"
     },
     {
+      "websites": [],
       "name": "Century Dynasty Asia Pacific Sdn Bhd",
-      "websites": [],
-      "id": "6ee4ae28-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Century Dynasty Group Berhad",
-      "websites": [],
-      "id": "6ee4ae29-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Century Dynasty Group LTD",
-      "websites": [],
-      "id": "6ee4ae2a-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Century Dynasty Resources Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae2b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Century Dynasty Resources Sdn Bhd (980031-K)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "980031K",
-      "bg_color": "bg-info"
+      "registration_number": "980031-K"
     },
     {
-      "name": "Celik Emas Enterprise",
       "websites": [],
-      "id": "6ee4ae2c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Celik Emas Enterprise (0021517795-K)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "0021517795K",
-      "bg_color": "bg-success"
+      "registration_number": "0021517795-K"
     },
     {
+      "websites": [
+        "www.cfaf-islamic.com"
+      ],
       "name": "CFAF Islamic",
+      "added_date": "2019-01-14T00:00:00.000Z",
+      "registration_number": ""
+    },
+    {
       "websites": [
         "www.cfaf-islamic.com"
       ],
-      "id": "6ee4ae2d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CFWA Capital Business (002665083V)",
       "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": "002665083V"
     },
     {
-      "name": "CFWA Capital Business",
-      "websites": [
-        "www.cfaf-islamic.com"
-      ],
-      "id": "6ee4ae2e-7ebd-11e9-8d64-43f9d5e75332",
-      "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "002665083V",
-      "bg_color": "bg-dark"
-    },
-    {
-      "name": "Changkat  Agro Resources",
       "websites": [],
-      "id": "6ee4ae2f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Changkat  Agro Resources (IP 0353991V)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "IP0353991V",
-      "bg_color": "bg-primary"
+      "registration_number": "IP 0353991V"
     },
     {
+      "websites": [],
       "name": "CG International",
-      "websites": [],
-      "id": "6ee4ae30-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "CGC Aquaculture Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae31-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CGC Aquaculture Sdn Bhd (1044976P)",
       "added_date": "2017-12-06T00:00:00.000Z",
-      "registration_number": "1044976P",
-      "bg_color": "bg-info"
+      "registration_number": "1044976P"
     },
     {
-      "name": "CGF Fine Metal Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae32-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CGF Fine Metal Sdn Bhd",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Classic Worldwide Corporation (M) Sdn Bhd",
       "websites": [
         "www.cwc.com.my",
         "programarba.blogspot.my"
       ],
-      "id": "6ee4ae33-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Classic Worldwide Corporation (M) Sdn Bhd (773082M)",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "773082M",
-      "bg_color": "bg-success"
+      "registration_number": "M Sdn Bhd 773082M"
     },
     {
-      "name": "Climate Protectors Sdn. Bhd",
       "websites": [],
-      "id": "6ee4ae34-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Climate Protectors Sdn. Bhd",
       "added_date": "2017-06-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Coin Enterprise Ltd",
       "websites": [
         "Livecoin.net"
       ],
-      "id": "6ee4ae35-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Coin Enterprise Ltd",
       "added_date": "2017-06-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "CryptoDaily Investment Packages",
       "websites": [
         "https://cryptodaily.io",
         "https://www.facebook.com/pg/Cryptodailyio-323902771374164/reviews/"
       ],
-      "id": "6ee4ae36-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CryptoDaily Investment Packages",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "CTK Network",
       "websites": [
         "http://CTK2U.com"
       ],
-      "id": "6ee4ae37-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CTK Network",
       "added_date": "2012-10-16T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Classic FX Venture",
       "websites": [
         "https://www.facebook.com/Classic-FX-Venture-92977800446648/"
       ],
-      "id": "6ee4ae38-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Classic FX Venture",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "CybertrustFX",
-      "websites": [],
-      "id": "6ee4ae39-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "CYL Asia Enterprise",
       "websites": [],
-      "id": "6ee4ae3a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CYL Asia Enterprise",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "CYL4U Resources",
       "websites": [
         "www.cyl4u.com"
       ],
-      "id": "6ee4ae3b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "CYL4U Resources",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "CYL Peoria Enterprise",
-      "websites": [],
-      "id": "6ee4ae3c-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "CYL Prospect Trading",
-      "websites": [],
-      "id": "6ee4ae3d-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Danatama Millennium Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae3e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Danatama Millennium Sdn Bhd (819082-U)",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "819082U",
-      "bg_color": "bg-danger"
+      "registration_number": "819082-U"
     },
     {
+      "websites": [],
       "name": "Dana Haji Jasman",
-      "websites": [],
-      "id": "6ee4ae3f-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Darul Emas Perak Bhd",
-      "websites": [],
-      "id": "6ee4ae40-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "DBB Star Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae41-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "DBB Star Sdn Bhd (1110055-M)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "1110055M",
-      "bg_color": "bg-info"
+      "registration_number": "1110055-M"
     },
     {
-      "name": "Degold Empire Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae42-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Degold Empire Sdn Bhd (882335-M)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "882335M",
-      "bg_color": "bg-info"
+      "registration_number": "882335-M"
     },
     {
-      "name": "Delta Wealth Services",
       "websites": [],
-      "id": "6ee4ae43-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Delta Wealth Services  (002194713-K)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "002194713K",
-      "bg_color": "bg-dark"
+      "registration_number": "002194713-K"
     },
     {
+      "websites": [],
       "name": "Destiny Resources Services",
-      "websites": [],
-      "id": "6ee4ae44-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Dgreat Network",
       "websites": [
         "http://info.simplebisnes.com"
       ],
-      "id": "6ee4ae45-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Dgreat Network",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Dinar Dirham Global",
       "websites": [
         "www.dinardirham.com"
       ],
-      "id": "6ee4ae46-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Dinar Dirham Global",
       "added_date": "2017-01-09T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "DM Rise Enterprise",
       "websites": [],
-      "id": "6ee4ae47-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "DM Rise Enterprise (PG 0262929-H)",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "PG0262929H",
-      "bg_color": "bg-primary"
+      "registration_number": "PG 0262929-H"
     },
     {
-      "name": "DNA Profile Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae48-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "DNA Profile Sdn Bhd (245435-W)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "245435W",
-      "bg_color": "bg-dark"
+      "registration_number": "245435-W"
     },
     {
-      "name": "Dream Success International Sdn Bhd",
       "websites": [
         "www.Surewin4u.com"
       ],
-      "id": "6ee4ae49-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Dream Success International Sdn Bhd (1002002-P)",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "1002002P",
-      "bg_color": "bg-secondary"
+      "registration_number": "1002002-P"
     },
     {
-      "name": "Dynamic Wira Marketing Sdn Bhd - Skim Beras 1 Malaysia",
       "websites": [],
-      "id": "6ee4ae4a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Dynamic Wira Marketing Sdn Bhd - Skim Beras 1 Malaysia",
       "added_date": "2013-01-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Dynasty Worldwide Sdn Bhd",
       "websites": [
         "www.dynasty-worldwide-net",
         "www.dynastymf.com"
       ],
-      "id": "6ee4ae4b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Dynasty Worldwide Sdn Bhd (800311-D)",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "800311D",
-      "bg_color": "bg-secondary"
+      "registration_number": "800311-D"
     },
     {
-      "name": "Eagle Aeronautics (M) Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae4c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Eagle Aeronautics (M) Sdn Bhd (796603-A)",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "796603A",
-      "bg_color": "bg-primary"
+      "registration_number": "M Sdn Bhd 796603-A"
     },
     {
+      "websites": [],
       "name": "East Cape Mining Corp",
-      "websites": [],
-      "id": "6ee4ae4d-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Ecobit",
       "websites": [],
-      "id": "6ee4ae4e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ecobit",
       "added_date": "2017-06-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Ecofuturefund",
       "websites": [
         "www.ecofuturefund.biz"
       ],
-      "id": "6ee4ae4f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ecofuturefund",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Efzinitus Capital Pte Ltd",
       "websites": [
         "www.efzinitus.com"
       ],
-      "id": "6ee4ae50-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Efzinitus Capital Pte Ltd",
       "added_date": "2017-05-09T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Emgoldex (Emirates Gold Exchange)",
       "websites": [],
-      "id": "6ee4ae51-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Emgoldex (Emirates Gold Exchange)",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": "Emirates Gold Exchange"
     },
     {
-      "name": "Empire Five Trading",
       "websites": [
         "www.mikadofx.com"
       ],
-      "id": "6ee4ae52-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Empire Five Trading",
       "added_date": "2014-04-04T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Empires Making Money For You (EMM4U)",
       "websites": [
         "https://www.empiresmm4u.com",
         "https://makemoremoney3m.wixsite.com/mm4u"
       ],
-      "id": "6ee4ae53-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Empires Making Money For You (EMM4U)",
       "added_date": "2018-02-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": "EMM4U"
     },
     {
-      "name": "Energetic Gateway Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae54-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Energetic Gateway Sdn Bhd (511826-X)",
       "added_date": "2013-01-23T00:00:00.000Z",
-      "registration_number": "511826X",
-      "bg_color": "bg-primary"
+      "registration_number": "511826-X"
     },
     {
-      "name": "Epic Palms Bhd",
       "websites": [
         "http://epicpalmsberhad.com/"
       ],
-      "id": "6ee4ae55-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Epic Palms Bhd",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Ethtrade Limited",
       "websites": [
         "https://ethtrade.org "
       ],
-      "id": "6ee4ae56-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ethtrade Limited",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Ethtrade Malaysia",
-      "websites": [],
-      "id": "6ee4ae57-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Everise Fumigation Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae58-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Everise Fumigation Sdn Bhd  (861654-K)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "861654K",
-      "bg_color": "bg-warning"
+      "registration_number": "861654-K"
     },
     {
-      "name": "Exorbitance Influence Sdn Bhd",
       "websites": [
         "www.krubal.com"
       ],
-      "id": "6ee4ae59-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Exorbitance Influence Sdn Bhd (1191499-U)",
       "added_date": "2017-01-09T00:00:00.000Z",
-      "registration_number": "1191499U",
-      "bg_color": "bg-success"
+      "registration_number": "1191499-U"
     },
     {
-      "name": "Exquisite Bottle Index Sdn Bhd",
       "websites": [
         "www.xbi.com.my"
       ],
-      "id": "6ee4ae5a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Exquisite Bottle Index Sdn Bhd (1060843T)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1060843T",
-      "bg_color": "bg-dark"
+      "registration_number": "1060843T"
     },
     {
-      "name": "Exness Executive Management",
       "websites": [
         "https://exnesmalaya.com"
       ],
-      "id": "6ee4ae5b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Exness Executive Management",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Exness Malaysia",
       "websites": [],
-      "id": "6ee4ae5c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Exness Malaysia",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Extra Capital Programme",
       "websites": [
         "http://extracapitalprogram.com"
       ],
-      "id": "6ee4ae5d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Extra Capital Programme",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Ezey Marketing",
-      "websites": [],
-      "id": "6ee4ae5e-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Ezy Save Trading",
       "websites": [],
-      "id": "6ee4ae5f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ezy Save Trading (PG0216560 - V)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "PG0216560V",
-      "bg_color": "bg-info"
+      "registration_number": "PG0216560 - V"
     },
     {
-      "name": "EZYFX Berhad",
       "websites": [
         "www.ezyfx4u.com",
         "https://ezfx4u.wordpress.com"
       ],
-      "id": "6ee4ae60-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "EZYFX Berhad (1213734P)",
       "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "1213734P",
-      "bg_color": "bg-dark"
+      "registration_number": "1213734P"
     },
     {
-      "name": "E-Qirad Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae61-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "E-Qirad Sdn Bhd (595699-D)",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "595699D",
-      "bg_color": "bg-info"
+      "registration_number": "595699-D"
     },
     {
+      "websites": [],
       "name": "FA Markets",
-      "websites": [],
-      "id": "6ee4ae62-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Family Wealth Resources",
       "websites": [],
-      "id": "6ee4ae63-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Family Wealth Resources (SA0310508-M)",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "SA0310508M",
-      "bg_color": "bg-secondary"
+      "registration_number": "SA0310508-M"
     },
     {
-      "name": "Fari Group Global Resources",
       "websites": [],
-      "id": "6ee4ae64-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Fari Group Global Resources (SA0319984-M)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "SA0319984M",
-      "bg_color": "bg-secondary"
+      "registration_number": "SA0319984-M"
     },
     {
-      "name": "FBS Malaysia",
       "websites": [
         "http://fbsmy.com"
       ],
-      "id": "6ee4ae65-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FBS Malaysia",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "FE Brands (M) Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae66-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FE Brands (M) Sdn Bhd (1000656-H)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "1000656H",
-      "bg_color": "bg-primary"
+      "registration_number": "M Sdn Bhd 1000656-H"
     },
     {
-      "name": "Financial.org Malaysia",
       "websites": [
         "https://www.facebook.com/financial.org.malaysia/ "
       ],
-      "id": "6ee4ae67-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Financial.org Malaysia",
       "added_date": "2018-04-09T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Flexsy Enterprise & Barrilorne Corp",
       "websites": [],
-      "id": "6ee4ae68-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Flexsy Enterprise & Barrilorne Corp",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "FNZ Capital Limited",
       "websites": [
         "www.intelfx.com"
       ],
-      "id": "6ee4ae69-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FNZ Capital Limited",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Fruits LT Ventures",
       "websites": [
         "https://www.facebook.com/Fruits-LT-Ventures-161191244419863 "
       ],
-      "id": "6ee4ae6a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Fruits LT Ventures",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Fruits LT Ventures Investment Scheme",
-      "websites": [],
-      "id": "6ee4ae6b-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Fortrend International Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae6c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Fortrend International Sdn Bhd (876619-X)",
       "added_date": "2015-09-01T00:00:00.000Z",
-      "registration_number": "876619X",
-      "bg_color": "bg-primary"
+      "registration_number": "876619-X"
     },
     {
-      "name": "Forex4you",
       "websites": [
         "http://www.forex4you.com/en/about",
         "https://www.facebook.com/forex4you.malaysia/ "
       ],
-      "id": "6ee4ae6d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Forex4you",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Forexnova",
       "websites": [
         "http://www.facebook.com/forexnovamalaysia/",
         "https://www.forexbrokerz.com/brokers/ForexNova-review"
       ],
-      "id": "6ee4ae6e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Forexnova",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Futurebarrel.com",
       "websites": [
         "http://futurebarrel.com"
       ],
-      "id": "6ee4ae6f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Futurebarrel.com",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Future Trade Indojaya Sdn Bhd",
       "websites": [
         "http://ftindojaya.blogspot.com",
         "www.ft-indojaya.com"
       ],
-      "id": "6ee4ae70-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Future Trade Indojaya Sdn Bhd (1003327-P)",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "1003327P",
-      "bg_color": "bg-dark"
+      "registration_number": "1003327-P"
     },
     {
-      "name": "FXBITLab Holdings Sdn Bhd",
       "websites": [
         "https://www.fxbitlab.com "
       ],
-      "id": "6ee4ae71-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FXBITLab Holdings Sdn Bhd (1212832-T)",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "1212832T",
-      "bg_color": "bg-info"
+      "registration_number": "1212832-T"
     },
     {
-      "name": "FxUnited Malaysia (myfxunited)",
       "websites": [],
-      "id": "6ee4ae72-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FxUnited Malaysia (myfxunited)",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": "myfxunited"
     },
     {
-      "name": "FXUnited Power Sdn Bhd",
       "websites": [
         "http://www.fxunitedpowerinternational.com/"
       ],
-      "id": "6ee4ae73-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FXUnited Power Sdn Bhd (1146795-M)",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "1146795M",
-      "bg_color": "bg-success"
+      "registration_number": "1146795-M"
     },
     {
-      "name": "FXZN Zenith Limited",
       "websites": [
         "http://www.fxzn.com"
       ],
-      "id": "6ee4ae74-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FXZN Zenith Limited",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "FXZN Investment Limited",
-      "websites": [],
-      "id": "6ee4ae75-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "FXZN Zenith Management Limited",
-      "websites": [],
-      "id": "6ee4ae76-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "FX Primus Ltd",
       "websites": [
         "https://trivfx.com"
       ],
-      "id": "6ee4ae77-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "FX Primus Ltd",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Gain FX Capital Sdn Bhd",
       "websites": [
         "www.gainfxcapital.org"
       ],
-      "id": "6ee4ae78-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Gain FX Capital Sdn Bhd",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Gan Patt Services",
-      "websites": [],
-      "id": "6ee4ae79-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Ganding Wawasan Trading ",
       "websites": [],
-      "id": "6ee4ae7a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ganding Wawasan Trading  (TR0133766-A)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0133766A",
-      "bg_color": "bg-warning"
+      "registration_number": "TR0133766-A"
     },
     {
-      "name": "GCMAsia",
       "websites": [
         "https://www.gcmasia.com/my/ https://www.facebook.com/GCMAsia-902721186484854/",
         "https://www.instagram.com/gcmasia/                         https://twitter.com/GcmAsia"
       ],
-      "id": "6ee4ae7b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GCMAsia",
       "added_date": "2018-01-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Gemilang Jalur Pintar Enterprise",
       "websites": [
         "http://www.jutawanapp.com/",
         "https://www.facebook.com/JutawanApp/"
       ],
-      "id": "6ee4ae7c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Gemilang Jalur Pintar Enterprise",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "GGC Aquaculture Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae7d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GGC Aquaculture Sdn Bhd (1044976P)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1044976P",
-      "bg_color": "bg-primary"
+      "registration_number": "1044976P"
     },
     {
-      "name": "GGF Golden House Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae7e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GGF Golden House Sdn Bhd (803753-W)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "803753W",
-      "bg_color": "bg-danger"
+      "registration_number": "803753-W"
     },
     {
-      "name": "GGT Golds Sdn Bhd",
       "websites": [],
-      "id": "6ee4ae7f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GGT Golds Sdn Bhd (547290-D)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "547290D",
-      "bg_color": "bg-dark"
+      "registration_number": "547290-D"
     },
     {
+      "websites": [],
       "name": "Global Creation Trading",
-      "websites": [],
-      "id": "6ee4ae80-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Global Golds Trading",
       "websites": [],
-      "id": "6ee4ae81-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Global Golds Trading (JM0518201-W)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "JM0518201W",
-      "bg_color": "bg-dark"
+      "registration_number": "JM0518201-W"
     },
     {
-      "name": "Global Peace Loving Family",
       "websites": [
         "www.globalpeacelf.com"
       ],
-      "id": "6ee4ae82-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Global Peace Loving Family",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Global Tijari Holdings Berhad",
-      "websites": [],
-      "id": "6ee4d500-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Global Tijari Industries Sdn Bhd",
-      "websites": [],
-      "id": "6ee4d501-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Global Venture Financing",
       "websites": [
         "http://globalventurefinancing.com"
       ],
-      "id": "6ee4d502-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Global Venture Financing",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Global Wave Gold Corporation",
       "websites": [
         "https://globalwavegold.com",
         "http://gwgfx.com"
       ],
-      "id": "6ee4d503-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Global Wave Gold Corporation",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Globamas Trading",
       "websites": [
         "https://www.empiresmm4u.com",
         "https://makemoremoney3m.wixsite.com/mm4u"
       ],
-      "id": "6ee4d504-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Globamas Trading",
       "added_date": "2018-02-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "GM Trader",
       "websites": [
         "http://www.gmtraderteam.com",
         "https://www.facebook.com/GmTrader-859208567506294/"
       ],
-      "id": "6ee4d505-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GM Trader",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Gold Bullion World Sdn Bhd",
       "websites": [
         "http://goldenworld.com.my"
       ],
-      "id": "6ee4d506-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Gold Bullion World Sdn Bhd (1018604-A)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "1018604A",
-      "bg_color": "bg-dark"
+      "registration_number": "1018604-A"
     },
     {
-      "name": "Gorgeous Chain Sdn Bhd",
       "websites": [],
-      "id": "6ee4d507-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Gorgeous Chain Sdn Bhd (841928-P)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "841928P",
-      "bg_color": "bg-primary"
+      "registration_number": "841928-P"
     },
     {
+      "websites": [],
       "name": "Grand View Golden Success Sdn Bhd (638186-X) - Golden;Maximum",
-      "websites": [],
-      "id": "6ee4d508-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": "638186-X"
     },
     {
-      "name": "Golden Speed Trading",
       "websites": [],
-      "id": "6ee4d509-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Golden Speed Trading (002252254-K)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "002252254K",
-      "bg_color": "bg-info"
+      "registration_number": "002252254-K"
     },
     {
-      "name": "Great Access Sdn Bhd",
       "websites": [],
-      "id": "6ee4d50a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Great Access Sdn Bhd (517965-X)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "517965X",
-      "bg_color": "bg-dark"
+      "registration_number": "517965-X"
     },
     {
-      "name": "Green Buck Resources Sdn Bhd",
       "websites": [],
-      "id": "6ee4d50b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Green Buck Resources Sdn Bhd (851115-A)",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "851115A",
-      "bg_color": "bg-info"
+      "registration_number": "851115-A"
     },
     {
-      "name": "Greenmillion Agrosolution Enterprise",
       "websites": [
         "http://greenmillionagrisolution.blogspot.com"
       ],
-      "id": "6ee4d50c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Greenmillion Agrosolution Enterprise",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Green Forest Global Sdn Bhd",
       "websites": [],
-      "id": "6ee4d50d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Green Forest Global Sdn Bhd (987049-P)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "987049P",
-      "bg_color": "bg-dark"
+      "registration_number": "987049-P"
     },
     {
-      "name": "Grow Asia Capital Holdings",
       "websites": [],
-      "id": "6ee4d50e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Grow Asia Capital Holdings (0000151641T)",
       "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "0000151641T",
-      "bg_color": "bg-primary"
+      "registration_number": "0000151641T"
     },
     {
-      "name": "Grow Asia Capital Ventures",
       "websites": [],
-      "id": "6ee4d50f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Grow Asia Capital Ventures (0000151635T)",
       "added_date": "2019-01-14T00:00:00.000Z",
-      "registration_number": "0000151635T",
-      "bg_color": "bg-warning"
+      "registration_number": "0000151635T"
     },
     {
-      "name": "GTGVIP",
       "websites": [
         "www.gtgvip.biz",
         "www.gtgvip.net"
       ],
-      "id": "6ee4d510-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "GTGVIP",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "HAFX Global Venture Sdn Bhd",
-      "websites": [],
-      "id": "6ee4d511-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Harvest Reliance Consultancy Sdn Bhd",
       "websites": [],
-      "id": "6ee4d512-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Harvest Reliance Consultancy Sdn Bhd (965589-W)",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "965589W",
-      "bg_color": "bg-info"
+      "registration_number": "965589-W"
     },
     {
+      "websites": [],
       "name": "HEA Teguh",
-      "websites": [],
-      "id": "6ee4d513-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Hexa Commerce Sdn Bhd",
       "websites": [],
-      "id": "6ee4d514-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Hexa Commerce Sdn Bhd (645798-X)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "645798X",
-      "bg_color": "bg-dark"
+      "registration_number": "645798-X"
     },
     {
-      "name": "HG Resources Sdn Bhd",
       "websites": [
         "http://www.highwayrich.com http://www.highwayrichclub.com",
         "http://www.highwaygroup2u.com"
       ],
-      "id": "6ee4d515-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "HG Resources Sdn Bhd",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "HiFX Asia (HiFX)",
       "websites": [
         "www.hifx2rich.com"
       ],
-      "id": "6ee4d516-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "HiFX Asia (HiFX)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": "HiFX"
     },
     {
-      "name": "Highway Group Resources",
       "websites": [
         "http://www.highwayrich.com",
         "http://www.highwayrichclub.com http://www.highwaygroup2u.com"
       ],
-      "id": "6ee4d517-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Highway Group Resources",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Hin Huat Auto Sparts",
       "websites": [],
-      "id": "6ee4d518-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Hin Huat Auto Sparts (TR0005484-X)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0005484X",
-      "bg_color": "bg-dark"
+      "registration_number": "TR0005484-X"
     },
     {
-      "name": "HotForex Malaysia",
       "websites": [
         "https://www.hotforex.com/sv/en/about-us/about-hotforex.html",
         "https://www.facebook.com/hfmarketsmalaysia http://hotforexpro.blogspot.my/"
       ],
-      "id": "6ee4d519-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "HotForex Malaysia",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Holiday Express Asia",
-      "websites": [],
-      "id": "6ee4d51a-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Honest Group Ltd",
-      "websites": [],
-      "id": "6ee4d51b-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Hupro International Inc",
-      "websites": [],
-      "id": "6ee4d51c-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "I & A Global Community Network",
-      "websites": [],
-      "id": "6ee4d51d-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2016-09-15T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Iconhill Holding Sdn Bhd",
       "websites": [],
-      "id": "6ee4d51e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Iconhill Holding Sdn Bhd (810775-P)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "810775P",
-      "bg_color": "bg-warning"
+      "registration_number": "810775-P"
     },
     {
+      "websites": [],
       "name": "IGC Diamond",
-      "websites": [],
-      "id": "6ee4d51f-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "IGOFX",
       "websites": [
         "https://www.facebook.com/IGOFXinvestment/?hc_ref=PAGES_TIMELINE&fref=nf "
       ],
-      "id": "6ee4d520-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "IGOFX",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Infinity Star International Sdn Bhd",
       "websites": [],
-      "id": "6ee4d521-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Infinity Star International Sdn Bhd (851864-T)",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "851864T",
-      "bg_color": "bg-secondary"
+      "registration_number": "851864-T"
     },
     {
+      "websites": [],
       "name": "Instaforex",
-      "websites": [],
-      "id": "6ee4d522-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Instagroup Resources",
       "websites": [],
-      "id": "6ee4d523-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Instagroup Resources (JM0531870-X)",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "JM0531870X",
-      "bg_color": "bg-warning"
+      "registration_number": "JM0531870-X"
     },
     {
-      "name": "INint Global Solution - (IGS)",
       "websites": [
         "http://www.igsvc.biz/igs1 ",
         "https://www.facebook.com/igs.biz/?hc_ref=SEARCH&fref=nf "
       ],
-      "id": "6ee4d524-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "INint Global Solution - (IGS)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Inter Pasicfic Soyy Enterprise",
-      "websites": [],
-      "id": "6ee4d525-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "IPG Capital",
-      "websites": [],
-      "id": "6ee4d526-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2018-04-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Iridian Ventures PLT (LLP0002569-LGN):",
-      "websites": [],
-      "id": "6ee4d527-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": "LLP0002569-LGN"
     },
     {
+      "websites": [],
       "name": "IronFX Solid Trading",
-      "websites": [],
-      "id": "6ee4d528-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Isothree Gold Sdn Bhd",
       "websites": [],
-      "id": "6ee4d529-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Isothree Gold Sdn Bhd (906561-K)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "906561K",
-      "bg_color": "bg-dark"
+      "registration_number": "906561-K"
     },
     {
-      "name": "Itradex",
       "websites": [
         "www.itradexsystem.com"
       ],
-      "id": "6ee4d52a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Itradex",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Jalatama Management Sdn Bhd",
       "websites": [
         "www.jalatama.com"
       ],
-      "id": "6ee4d52b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Jalatama Management Sdn Bhd (929594-W)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "929594W",
-      "bg_color": "bg-info"
+      "registration_number": "929594-W"
     },
     {
-      "name": "Jalur Gemilang Maju Enterprise",
       "websites": [
         "http://www.jutawanapp.com/",
         "https://www.facebook.com/JutawanApp/"
       ],
-      "id": "6ee4d52c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Jalur Gemilang Maju Enterprise (SA 0412058 - U)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "SA0412058U",
-      "bg_color": "bg-warning"
+      "registration_number": "SA 0412058 - U"
     },
     {
-      "name": "Jazlaan Enterprise",
       "websites": [],
-      "id": "6ee4d52d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Jazlaan Enterprise",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Jihadfarisha Ventures",
       "websites": [
         "www.dpkingfx.weebly.com"
       ],
-      "id": "6ee4d52e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Jihadfarisha Ventures",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "JJ Commerce Trading",
       "websites": [],
-      "id": "6ee4d52f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "JJ Commerce Trading (SA0399365P)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "SA0399365P",
-      "bg_color": "bg-danger"
+      "registration_number": "SA0399365P"
     },
     {
+      "websites": [
+        "www.jjptr.com"
+      ],
       "name": "JJ Global Network",
-      "websites": [
-        "www.jjptr.com"
-      ],
-      "id": "6ee4d530-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "JJ Online Enterprise",
       "websites": [],
-      "id": "6ee4d531-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "JJ Online Enterprise (SA0399360K)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "SA0399360K",
-      "bg_color": "bg-info"
+      "registration_number": "SA0399360K"
     },
     {
+      "websites": [
+        "www.jjptr.com"
+      ],
       "name": "JJ Poor To Rich",
+      "added_date": "2017-02-24T00:00:00.000Z",
+      "registration_number": ""
+    },
+    {
       "websites": [
         "www.jjptr.com"
       ],
-      "id": "6ee4d532-7ebd-11e9-8d64-43f9d5e75332",
-      "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
-    },
-    {
       "name": "JJPTR",
-      "websites": [
-        "www.jjptr.com"
-      ],
-      "id": "6ee4d533-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "JM Communications & Technology Sdn Bhd",
       "websites": [],
-      "id": "6ee4d534-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "JM Communications & Technology Sdn Bhd (702054-V)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "702054V",
-      "bg_color": "bg-dark"
+      "registration_number": "702054-V"
     },
     {
+      "websites": [],
       "name": "JMI Global",
-      "websites": [],
-      "id": "6ee4d535-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "JTGold",
-      "websites": [],
-      "id": "6ee4d536-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Jutawan Apps",
       "websites": [
         "http://www.jutawanapp.com/",
         "https://www.facebook.com/JutawanApp/"
       ],
-      "id": "6ee4d537-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Jutawan Apps",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Kazuki Coin",
       "websites": [
         "www.kazukicoin.net",
         "https://www.facebook.com/kzkcSamuraiNetwork/ https://www.facebook.com/kazukicoinHQ/ https://www.facebook.com/billionaireislandclub/ https://www.facebook.com/kazukimalaysia/ http://kongsikazukicoin.blogspot.my/2017/09/kongsikazukicoin.html"
       ],
-      "id": "6ee4d538-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kazuki Coin",
       "added_date": "2018-05-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Kelab Kebajikan dan Sosial Tun Teja Malaysia",
       "websites": [
         "http://yds2u.com"
       ],
-      "id": "6ee4d539-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kelab Kebajikan dan Sosial Tun Teja Malaysia",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Kelab Kebajikan Sosial Malaysia",
       "websites": [],
-      "id": "6ee4d53a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kelab Kebajikan Sosial Malaysia (VVIP88)",
       "added_date": "2014-04-04T00:00:00.000Z",
-      "registration_number": "VVIP88",
-      "bg_color": "bg-primary"
+      "registration_number": "VVIP88"
     },
     {
-      "name": "Keenan Capital Group",
       "websites": [
         "www.kcgtraders.com",
         "www.keenonlinefx.com"
       ],
-      "id": "6ee4d53b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Keenan Capital Group",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Keenan Prestige Services",
       "websites": [],
-      "id": "6ee4d53c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Keenan Prestige Services  (002095851-P)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "002095851P",
-      "bg_color": "bg-secondary"
+      "registration_number": "002095851-P"
     },
     {
-      "name": "Keenan Brilliant Services",
       "websites": [],
-      "id": "6ee4d53d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Keenan Brilliant Services  (002021597-V)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "002021597V",
-      "bg_color": "bg-danger"
+      "registration_number": "002021597-V"
     },
     {
-      "name": "Kembara Jutawan Crypto",
       "websites": [
         "https://www.facebook.com/svdmalaysia ",
         "https://www.cryptobeggar.net"
       ],
-      "id": "6ee4d53e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kembara Jutawan Crypto",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Khaira Sakinah Resources",
       "websites": [],
-      "id": "6ee4d53f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Khaira Sakinah Resources (CT0018249-R)",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "CT0018249R",
-      "bg_color": "bg-dark"
+      "registration_number": "CT0018249-R"
     },
     {
-      "name": "Kilauan Padu Services Sdn Bhd (KPSSB)",
       "websites": [],
-      "id": "6ee4d540-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kilauan Padu Services Sdn Bhd (KPSSB) (657711-X)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "657711X",
-      "bg_color": "bg-info"
+      "registration_number": "KPSSB 657711-X"
     },
     {
+      "websites": [],
       "name": "KL FxUnited Club",
-      "websites": [],
-      "id": "6ee4d541-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Kris Plus Enterprise",
       "websites": [],
-      "id": "6ee4d542-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kris Plus Enterprise (IP0238424-A)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "IP0238424A",
-      "bg_color": "bg-warning"
+      "registration_number": "IP0238424-A"
     },
     {
-      "name": "Kudaemas",
       "websites": [
         "www.kudaemas.com"
       ],
-      "id": "6ee4d543-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Kudaemas",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "L & L Property Ventures SB",
       "websites": [],
-      "id": "6ee4d544-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "L & L Property Ventures SB (1186992T)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "1186992T",
-      "bg_color": "bg-warning"
+      "registration_number": "1186992T"
     },
     {
-      "name": "Lestari2U",
       "websites": [
         "www.lestari2u.com"
       ],
-      "id": "6ee4d545-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Lestari2U",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "LetDuit Scheme",
       "websites": [
         "www.letduit.com",
         "Let Duit Boss (Facebook page) LetDuit Plan 30 Hari (Facebook page)"
       ],
-      "id": "6ee4d546-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "LetDuit Scheme",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Liberty Reserve",
       "websites": [
         "www.libertyreserve.com"
       ],
-      "id": "6ee4d547-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Liberty Reserve",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Life Time Holidays Sdn Bhd",
       "websites": [],
-      "id": "6ee4d548-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Life Time Holidays Sdn Bhd (727129-U)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "727129U",
-      "bg_color": "bg-secondary"
+      "registration_number": "727129-U"
     },
     {
+      "websites": [],
       "name": "Live Coin Express",
-      "websites": [],
-      "id": "6ee4d549-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "LocalAdClick",
       "websites": [
         "http://localadclick.net"
       ],
-      "id": "6ee4d54a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "LocalAdClick",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "LocusNetwork4u.com",
       "websites": [
         "http://locusnetwork4u.com",
         "http://carigold.com/portal/forums/showthread.php?t=548206"
       ],
-      "id": "6ee4d54b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "LocusNetwork4u.com",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "LS Gold Bullion Sdn Bhd",
       "websites": [],
-      "id": "6ee4d54c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "LS Gold Bullion Sdn Bhd (235435-H)",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "235435H",
-      "bg_color": "bg-dark"
+      "registration_number": "235435-H"
     },
     {
-      "name": "Making Money For You (MM4U)",
       "websites": [
         "https://www.empiresmm4u.com",
         "https://makemoremoney3m.wixsite.com/mm4u"
       ],
-      "id": "6ee4d54d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Making Money For You (MM4U)",
       "added_date": "2018-02-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": "MM4U"
     },
     {
-      "name": "Mama Captain International",
       "websites": [
         "http://www.mamacaptain.com",
         "http://www.barrel2u.com https://www.mamaharbour.com"
       ],
-      "id": "6ee4d54e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mama Captain International",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Marco Robinson Sdn Bhd",
       "websites": [
         "www.marcorobinson.com"
       ],
-      "id": "6ee4d54f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Marco Robinson Sdn Bhd",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Mari Wholesale (M) Sdn Bhd",
       "websites": [],
-      "id": "6ee4d550-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mari Wholesale (M) Sdn Bhd (556117-T)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "556117T",
-      "bg_color": "bg-primary"
+      "registration_number": "M Sdn Bhd 556117-T"
     },
     {
-      "name": "Mateen Acquisition Global",
       "websites": [
         "www.asia-equity.com"
       ],
-      "id": "6ee4d551-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mateen Acquisition Global (002693981K)",
       "added_date": "2018-10-10T00:00:00.000Z",
-      "registration_number": "002693981K",
-      "bg_color": "bg-dark"
+      "registration_number": "002693981K"
     },
     {
-      "name": "Maxim Capital Ltd",
       "websites": [
         "www.maximtrader.com"
       ],
-      "id": "6ee4d552-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Maxim Capital Ltd",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Mayuni Enterprise",
       "websites": [
         "https://www.empiresmm4u.com",
         "https://makemoremoney3m.wixsite.com/mm4u"
       ],
-      "id": "6ee4d553-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mayuni Enterprise",
       "added_date": "2018-02-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Maza Network Sdn Bhd",
       "websites": [],
-      "id": "6ee4d554-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Maza Network Sdn Bhd (1006389-H)",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "1006389H",
-      "bg_color": "bg-dark"
+      "registration_number": "1006389-H"
     },
     {
-      "name": "MBI International Sdn Bhd",
       "websites": [
         "http://www.mbiv2u.com/"
       ],
-      "id": "6ee4d555-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MBI International Sdn Bhd (873323-V)",
       "added_date": "2017-05-22T00:00:00.000Z",
-      "registration_number": "873323V",
-      "bg_color": "bg-secondary"
+      "registration_number": "873323-V"
     },
     {
-      "name": "McRen Oceanus Sdn Bhd",
       "websites": [],
-      "id": "6ee4d556-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "McRen Oceanus Sdn Bhd (908484-X)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "908484X",
-      "bg_color": "bg-dark"
+      "registration_number": "908484-X"
     },
     {
-      "name": "MD Venture Group Sdn Bhd",
       "websites": [],
-      "id": "6ee4d557-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MD Venture Group Sdn Bhd (1058936U)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1058936U",
-      "bg_color": "bg-danger"
+      "registration_number": "1058936U"
     },
     {
-      "name": "Meccafund Family Malaysia",
       "websites": [
         "www.meccafundfamilymalaysia.blogspot.com"
       ],
-      "id": "6ee4d558-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Meccafund Family Malaysia",
       "added_date": "2014-04-04T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Mecca Fund Global (MFG)",
       "websites": [
         "http://meccafundglobal.com https://makkahislamichotel.com",
         "mekahalsafwah.blogspot.my"
       ],
-      "id": "6ee4d559-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mecca Fund Global (MFG)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Mega Dynasty Sdn Bhd",
       "websites": [],
-      "id": "6ee4d55a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mega Dynasty Sdn Bhd (931589-V)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "931589V",
-      "bg_color": "bg-info"
+      "registration_number": "931589-V"
     },
     {
-      "name": "Megaherbs Bioextreme",
       "websites": [],
-      "id": "6ee4d55b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Megaherbs Bioextreme (001946380-K)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "001946380K",
-      "bg_color": "bg-primary"
+      "registration_number": "001946380-K"
     },
     {
-      "name": "Megah Mewah Trading",
       "websites": [],
-      "id": "6ee4d55c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Megah Mewah Trading (SA0295909-A)",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "SA0295909A",
-      "bg_color": "bg-dark"
+      "registration_number": "SA0295909-A"
     },
     {
-      "name": "Mface International Sdn Bhd",
       "websites": [
         "http://www.mbiv2u.com/"
       ],
-      "id": "6ee4d55d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mface International Sdn Bhd (978203-V)",
       "added_date": "2017-05-22T00:00:00.000Z",
-      "registration_number": "978203V",
-      "bg_color": "bg-dark"
+      "registration_number": "978203-V"
     },
     {
-      "name": "MGCfx",
       "websites": [
         "www.mgcforex.com"
       ],
-      "id": "6ee4d55e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MGCfx",
       "added_date": "2016-06-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "MGC Capital Sdn Bhd",
       "websites": [
         "www.morgagecapitals.com"
       ],
-      "id": "6ee4d55f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MGC Capital Sdn Bhd",
       "added_date": "2016-06-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "MGSB Holding Sdn Bhd",
       "websites": [
         "www.mgsb.org.my"
       ],
-      "id": "6ee4d560-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MGSB Holding Sdn Bhd",
       "added_date": "2015-11-16T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "MH Secret Wealth Enterprise",
       "websites": [],
-      "id": "6ee4d561-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MH Secret Wealth Enterprise (NS0122059A)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "NS0122059A",
-      "bg_color": "bg-info"
+      "registration_number": "NS0122059A"
     },
     {
-      "name": "Mi1 Global Sdn Bhd",
       "websites": [
         "http://mymi1millionaire.org"
       ],
-      "id": "6ee4d562-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mi1 Global Sdn Bhd (1145697-X)",
       "added_date": "2017-01-09T00:00:00.000Z",
-      "registration_number": "1145697X",
-      "bg_color": "bg-warning"
+      "registration_number": "1145697-X"
     },
     {
-      "name": "Million Jade Sdn Bhd",
       "websites": [
         "http://www.millionjade.com"
       ],
-      "id": "6ee4d563-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Million Jade Sdn Bhd",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Miracle Day Trading",
       "websites": [],
-      "id": "6ee4d564-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Miracle Day Trading (JR0047390-V)",
       "added_date": "2015-09-01T00:00:00.000Z",
-      "registration_number": "JR0047390V",
-      "bg_color": "bg-info"
+      "registration_number": "JR0047390-V"
     },
     {
-      "name": "Mohamad World Enterprise",
       "websites": [],
-      "id": "6ee4d565-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mohamad World Enterprise",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "MonSpace (M) Sdn Bhd",
       "websites": [
         "http://www.monspacea.com"
       ],
-      "id": "6ee4d566-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MonSpace (M) Sdn Bhd",
       "added_date": "2017-05-09T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "MMM Malaysia",
       "websites": [
         "https://malaysia-mmm.net",
         "https://www.facebook.com/MMM.Malaysia.Official"
       ],
-      "id": "6ee4d567-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MMM Malaysia",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "MOP Consultant Sdn. Bhd",
       "websites": [],
-      "id": "6ee4d568-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MOP Consultant Sdn. Bhd (101867-W)",
       "added_date": "2015-10-13T00:00:00.000Z",
-      "registration_number": "101867W",
-      "bg_color": "bg-warning"
+      "registration_number": "101867-W"
     },
     {
-      "name": "Mughniwave International Sdn. Bhd.",
       "websites": [
         "http://mughniglobal.com"
       ],
-      "id": "6ee4d569-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Mughniwave International Sdn. Bhd. (1163697-W)",
       "added_date": "2016-09-15T00:00:00.000Z",
-      "registration_number": "1163697W",
-      "bg_color": "bg-secondary"
+      "registration_number": "1163697-W"
     },
     {
-      "name": "MX3 World Wide",
       "websites": [
         "http://mx3worldwide.com"
       ],
-      "id": "6ee4d56a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MX3 World Wide",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "My Cameron Hills Sdn Bhd",
       "websites": [],
-      "id": "6ee4d56b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "My Cameron Hills Sdn Bhd",
       "added_date": "2015-05-21T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Myrezki",
       "websites": [
         "http://myrezki.com",
         "https://www.facebook.com/bizmeletop2017"
       ],
-      "id": "6ee4d56c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Myrezki",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "MyHowk Ling",
       "websites": [
         "https://www.facebook.com/profile.php?id=100013203109581 "
       ],
-      "id": "6ee4d56d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "MyHowk Ling",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Nahana Golbal Resources",
       "websites": [],
-      "id": "6ee4d56e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Nahana Golbal Resources (00211411-M)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "00211411M",
-      "bg_color": "bg-secondary"
+      "registration_number": "00211411-M"
     },
     {
-      "name": "New Gen Food Sdn Bhd",
       "websites": [],
-      "id": "6ee4d56f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "New Gen Food Sdn Bhd (1186962X)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "1186962X",
-      "bg_color": "bg-dark"
+      "registration_number": "1186962X"
     },
     {
-      "name": "Nexgain Malaysia Sdn Bhd",
       "websites": [],
-      "id": "6ee4d570-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Nexgain Malaysia Sdn Bhd (773854-D)",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "773854D",
-      "bg_color": "bg-primary"
+      "registration_number": "773854-D"
     },
     {
-      "name": "Next Generation mall",
       "websites": [],
-      "id": "6ee4d571-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Next Generation mall",
       "added_date": "2016-09-15T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "NGR Asia Group Sdn Bhd",
       "websites": [
         "http://www.ngrasia.com"
       ],
-      "id": "6ee4d572-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "NGR Asia Group Sdn Bhd (1138129-M)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "1138129M",
-      "bg_color": "bg-secondary"
+      "registration_number": "1138129-M"
     },
     {
-      "name": "NGR Global Sdn Bhd",
       "websites": [],
-      "id": "6ee4d573-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "NGR Global Sdn Bhd (UT0004411-H)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "UT0004411H",
-      "bg_color": "bg-dark"
+      "registration_number": "UT0004411-H"
     },
     {
-      "name": "NIKPROFIT TRADING",
       "websites": [
         "http://www.premierfxmarket.com"
       ],
-      "id": "6ee4d574-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "NIKPROFIT TRADING",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Nory Motor",
       "websites": [],
-      "id": "6ee4d575-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Nory Motor  (TR0023237-H)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0023237H",
-      "bg_color": "bg-primary"
+      "registration_number": "TR0023237-H"
     },
     {
-      "name": "Norry Setia Ent",
       "websites": [],
-      "id": "6ee4d576-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Norry Setia Ent  (TR0103958-M)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0103958M",
-      "bg_color": "bg-info"
+      "registration_number": "TR0103958-M"
     },
     {
-      "name": "NTB Agencies Sdn Bhd",
       "websites": [],
-      "id": "6ee4d577-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "NTB Agencies Sdn Bhd (1039052-M)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "1039052M",
-      "bg_color": "bg-success"
+      "registration_number": "1039052-M"
     },
     {
+      "websites": [],
       "name": "O2 Only One",
-      "websites": [],
-      "id": "6ee4d578-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Ocean Century International Limited",
-      "websites": [],
-      "id": "6ee4d579-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "OCI Management Sdn Bhd",
       "websites": [],
-      "id": "6ee4d57a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "OCI Management Sdn Bhd (1042036X)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1042036X",
-      "bg_color": "bg-warning"
+      "registration_number": "1042036X"
     },
     {
-      "name": "OCI Venture Sdn Bhd",
       "websites": [],
-      "id": "6ee4d57b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "OCI Venture Sdn Bhd (1039926H)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "1039926H",
-      "bg_color": "bg-primary"
+      "registration_number": "1039926H"
     },
     {
-      "name": "ODFX",
       "websites": [
         "http://www.ODFX.com"
       ],
-      "id": "6ee4d57c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "ODFX",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "OG1 Asean",
-      "websites": [],
-      "id": "6ee4d57d-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Overseas Commercial Futures (OCFX)",
-      "websites": [],
-      "id": "6ee4d57e-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": "OCFX"
     },
     {
+      "websites": [],
       "name": "OLTA Capital Management Inc.",
-      "websites": [],
-      "id": "6ee4d57f-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Omega Pinnacle Ltd (Labuan)",
       "websites": [],
-      "id": "6ee4d580-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Omega Pinnacle Ltd (Labuan)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": "Labuan"
     },
     {
-      "name": "One AutoCash",
       "websites": [
         "www.clubautocash.com",
         "www.1autocash.com"
       ],
-      "id": "6ee4d581-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "One AutoCash",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Only One International Sdn Bhd",
       "websites": [],
-      "id": "6ee4d582-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Only One International Sdn Bhd (1195288W)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "1195288W",
-      "bg_color": "bg-danger"
+      "registration_number": "1195288W"
     },
     {
+      "websites": [],
       "name": "Orion Healthcare Management Services Sdn Bhd",
-      "websites": [],
-      "id": "6ee4d583-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Orion Prokasih (M) Sdn Bhd",
-      "websites": [],
-      "id": "6ee4d584-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Ostim Academy",
       "websites": [
         "www.ostimint.com"
       ],
-      "id": "6ee4d585-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ostim Academy (002443002-A)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "002443002A",
-      "bg_color": "bg-dark"
+      "registration_number": "002443002-A"
     },
     {
-      "name": "Overseas Delight Sdn Bhd ",
       "websites": [
         "www.arawana2u.com"
       ],
-      "id": "6ee4fc10-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Overseas Delight Sdn Bhd  (614245-W)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "614245W",
-      "bg_color": "bg-dark"
+      "registration_number": "614245-W"
     },
     {
-      "name": "Pancar Mayang Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc11-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pancar Mayang Sdn Bhd (527196-H)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "527196H",
-      "bg_color": "bg-primary"
+      "registration_number": "527196-H"
     },
     {
-      "name": "Pars Pay Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc12-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pars Pay Sdn Bhd (813378-V)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "813378V",
-      "bg_color": "bg-secondary"
+      "registration_number": "813378-V"
     },
     {
-      "name": "Pegasus Bullion",
       "websites": [
         "www.pegasusbullion.com"
       ],
-      "id": "6ee4fc13-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pegasus Bullion",
       "added_date": "2014-04-04T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Perfway Traders Sdn Bhd",
       "websites": [
         "http://www.perfway.com"
       ],
-      "id": "6ee4fc14-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Perfway Traders Sdn Bhd (918583-V)",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "918583V",
-      "bg_color": "bg-secondary"
+      "registration_number": "918583-V"
     },
     {
+      "websites": [],
       "name": "Perniagaan Jatidana Wawasan (M) Sdn Bhd",
-      "websites": [],
-      "id": "6ee4fc15-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Perubatan Islam Seiring Syariat Al-Ikhlas",
       "websites": [],
-      "id": "6ee4fc16-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Perubatan Islam Seiring Syariat Al-Ikhlas",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Pioneer Forest Sdn Bhd",
       "websites": [
         "www.abunur.com",
         "rezekipasif.blogspot.my"
       ],
-      "id": "6ee4fc17-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pioneer Forest Sdn Bhd (1069104M)",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "1069104M",
-      "bg_color": "bg-info"
+      "registration_number": "1069104M"
     },
     {
-      "name": "Pertubuhan Kebajikan Komuniti Malaysia (PKKM)",
       "websites": [
         "https://www.pkkm.my"
       ],
-      "id": "6ee4fc18-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pertubuhan Kebajikan Komuniti Malaysia (PKKM)",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": "PKKM"
     },
     {
+      "websites": [
+        "www.pokdinempire.com"
+      ],
       "name": "Pok Din Consultant & Services",
+      "added_date": "2016-05-27T00:00:00.000Z",
+      "registration_number": ""
+    },
+    {
       "websites": [
         "www.pokdinempire.com"
       ],
-      "id": "6ee4fc19-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pok Din Empire Sdn Bhd (1130978-D)",
       "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": "1130978-D"
     },
     {
-      "name": "Pok Din Empire Sdn Bhd",
-      "websites": [
-        "www.pokdinempire.com"
-      ],
-      "id": "6ee4fc1a-7ebd-11e9-8d64-43f9d5e75332",
-      "added_date": "2016-05-27T00:00:00.000Z",
-      "registration_number": "1130978D",
-      "bg_color": "bg-success"
-    },
-    {
-      "name": "Pollywood Scheme",
       "websites": [
         "http://www.pollywood.asia/index.html",
         "http://www.polly.academy/ http://www.facebook.com/pollywoodhq/ ",
         "https://www.facebook.com/Pollywood-Pte-Ltd-2747462042880450/ "
       ],
-      "id": "6ee4fc1b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pollywood Scheme",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Power Trade Asia Sdn Bhd",
       "websites": [
         "www.kuasaforex.com.my"
       ],
-      "id": "6ee4fc1c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Power Trade Asia Sdn Bhd (933528-T)",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "933528T",
-      "bg_color": "bg-dark"
+      "registration_number": "933528-T"
     },
     {
-      "name": "PPC Storm",
       "websites": [
         "http://ppcstorm.com"
       ],
-      "id": "6ee4fc1d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "PPC Storm",
       "added_date": "2014-04-04T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Preferred Credentials Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc1e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Preferred Credentials Sdn Bhd",
       "added_date": "2013-01-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Premier FX Malaysia",
       "websites": [
         "http://www.premierfxmarket.com"
       ],
-      "id": "6ee4fc1f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Premier FX Malaysia",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Premier Point Market Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc20-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Premier Point Market Sdn Bhd (1166245-K)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "1166245K",
-      "bg_color": "bg-primary"
+      "registration_number": "1166245-K"
     },
     {
+      "websites": [],
       "name": "Premier Point Market LLC",
-      "websites": [],
-      "id": "6ee4fc21-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Premier Ventures Gold",
-      "websites": [],
-      "id": "6ee4fc22-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-03-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Prestige Dairy Farm (M) Berhad",
       "websites": [],
-      "id": "6ee4fc23-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Prestige Dairy Farm (M) Berhad (832757-A)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "832757A",
-      "bg_color": "bg-danger"
+      "registration_number": "M Berhad 832757-A"
     },
     {
-      "name": "Proficiency Management and Services",
       "websites": [],
-      "id": "6ee4fc24-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Proficiency Management and Services (002532706X)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "002532706X",
-      "bg_color": "bg-primary"
+      "registration_number": "002532706X"
     },
     {
+      "websites": [],
       "name": "Profit Web Sdn Bhd",
-      "websites": [],
-      "id": "6ee4fc25-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Program 10 Bulan Forex Trading",
-      "websites": [],
-      "id": "6ee4fc26-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Program I-Rich",
-      "websites": [],
-      "id": "6ee4fc27-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Pro Infinity Ltd",
       "websites": [
         "http://proinfinity.com"
       ],
-      "id": "6ee4fc28-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pro Infinity Ltd",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Projek Duit 2012",
-      "websites": [],
-      "id": "6ee4fc29-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Project Tebus Nilai IQD Investment Scheme",
-      "websites": [],
-      "id": "6ee4fc2a-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2018-08-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Provisio Multimedia",
-      "websites": [],
-      "id": "6ee4fc2b-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Pruton Mega Holding Limited",
       "websites": [],
-      "id": "6ee4fc2c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Pruton Mega Holding Limited",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "PTFX",
       "websites": [
         "https://www.facebook.com/ooi.ptfx?hc_ref=SEARCH  https://www.facebook.com/PTFX-Malaysia765053533643113/?hc_ref=SEARCH  https://www.facebook.com/PTFX-Malaysia-765053533643113/ https://www.facebook.com/PTFXCopyTrade/ "
       ],
-      "id": "6ee4fc2d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "PTFX",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "PTM4U",
       "websites": [
         "http://passport2u.com"
       ],
-      "id": "6ee4fc2e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "PTM4U",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Public Golden House Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc2f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Public Golden House Sdn Bhd (806825-M)",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "806825M",
-      "bg_color": "bg-primary"
+      "registration_number": "806825-M"
     },
     {
-      "name": "Puncak Hartawan Resources ",
       "websites": [],
-      "id": "6ee4fc30-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Puncak Hartawan Resources  (0000097980-T)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "0000097980T",
-      "bg_color": "bg-dark"
+      "registration_number": "0000097980-T"
     },
     {
-      "name": "Quantum Capital Program",
       "websites": [
         "www.quantumcapitalprogram.com www.berjayaforex.com"
       ],
-      "id": "6ee4fc31-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Quantum Capital Program",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Questra World (QW)",
       "websites": [
         "https://questraworld.es",
         "https://www.facebook.com/QuestraWorld.Malaysia.1/"
       ],
-      "id": "6ee4fc32-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Questra World (QW)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Qinur Enterprise",
       "websites": [
         "http://www.premierfxmarket.com "
       ],
-      "id": "6ee4fc33-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Qinur Enterprise",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Ram Kris Venture",
       "websites": [],
-      "id": "6ee4fc34-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ram Kris Venture (0024165647-K)",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "0024165647K",
-      "bg_color": "bg-primary"
+      "registration_number": "0024165647-K"
     },
     {
+      "websites": [],
       "name": "RCFX",
-      "websites": [],
-      "id": "6ee4fc35-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2016-03-07T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "RC Group",
-      "websites": [],
-      "id": "6ee4fc36-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2016-03-07T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "RC Group Sdn Bhd",
-      "websites": [],
-      "id": "6ee4fc37-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2016-03-07T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Real Biz Pasif",
       "websites": [],
-      "id": "6ee4fc38-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Real Biz Pasif",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Real Ingenious Sdn Bhd",
       "websites": [
         "www.worldfocus.co"
       ],
-      "id": "6ee4fc39-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Real Ingenious Sdn Bhd (926598-U)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "926598U",
-      "bg_color": "bg-dark"
+      "registration_number": "926598-U"
     },
     {
-      "name": "Relax Green Enterprise",
       "websites": [],
-      "id": "6ee4fc3a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Relax Green Enterprise (PG0415537X)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "PG0415537X",
-      "bg_color": "bg-info"
+      "registration_number": "PG0415537X"
     },
     {
-      "name": "Rejab Trading ",
       "websites": [],
-      "id": "6ee4fc3b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rejab Trading  (TR0115248-A)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0115248A",
-      "bg_color": "bg-success"
+      "registration_number": "TR0115248-A"
     },
     {
-      "name": "Rejabwealth Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc3c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rejabwealth Sdn Bhd (1005424-X)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "1005424X",
-      "bg_color": "bg-info"
+      "registration_number": "1005424-X"
     },
     {
+      "websites": [],
       "name": "Reza Anuar Seven",
-      "websites": [],
-      "id": "6ee4fc3d-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Retro Titan Sdn Bhd",
-      "websites": [],
-      "id": "6ee4fc3e-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Rex Russel Capital Investment Group",
       "websites": [],
-      "id": "6ee4fc3f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rex Russel Capital Investment Group",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "RGCX Trading Corp",
       "websites": [
         "http://www.goldrgcx.com/richman8 www.rapidgcx.com"
       ],
-      "id": "6ee4fc40-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "RGCX Trading Corp",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Richway Global Venture",
       "websites": [
         "www.richwayventure.com",
         "www.richwayventure.info"
       ],
-      "id": "6ee4fc41-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Richway Global Venture",
       "added_date": "2017-05-17T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Richway Green Venture",
       "websites": [],
-      "id": "6ee4fc42-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Richway Green Venture (PG0406414M)",
       "added_date": "2017-06-29T00:00:00.000Z",
-      "registration_number": "PG0406414M",
-      "bg_color": "bg-success"
+      "registration_number": "PG0406414M"
     },
     {
-      "name": "Rich World Revolution (RWR)",
       "websites": [
         "http://richworldrevolution.com/rwr/ ",
         "https://www.facebook.com/richworldrevolution/"
       ],
-      "id": "6ee4fc43-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rich World Revolution (RWR)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Rimbun Tekad Realty Sdn Bhd ",
       "websites": [],
-      "id": "6ee4fc44-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rimbun Tekad Realty Sdn Bhd  (966604-D)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "966604D",
-      "bg_color": "bg-dark"
+      "registration_number": "966604-D"
     },
     {
-      "name": "Rimbun Tekad Consultancy Sdn Bhd ",
       "websites": [],
-      "id": "6ee4fc45-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rimbun Tekad Consultancy Sdn Bhd  (966620-V)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "966620V",
-      "bg_color": "bg-secondary"
+      "registration_number": "966620-V"
     },
     {
-      "name": "Rising Premium Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc46-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rising Premium Sdn Bhd (285572-P)",
       "added_date": "2015-05-14T00:00:00.000Z",
-      "registration_number": "285572P",
-      "bg_color": "bg-success"
+      "registration_number": "285572-P"
     },
     {
-      "name": "RMMUDAH.COM",
       "websites": [],
-      "id": "6ee4fc47-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "RMMUDAH.COM",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "RM20segera.com",
       "websites": [
         "www.rm20segera.com"
       ],
-      "id": "6ee4fc48-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "RM20segera.com",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "RN Corporate Services Sdn Bhd",
-      "websites": [],
-      "id": "6ee4fc49-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-02-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Rowther Technologies MSC Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc4a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Rowther Technologies MSC Sdn Bhd (727979-T)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "727979T",
-      "bg_color": "bg-dark"
+      "registration_number": "727979-T"
     },
     {
-      "name": "Royal Gold Sdn Bhd",
       "websites": [
         "http://royalgolds.com"
       ],
-      "id": "6ee4fc4b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Royal Gold Sdn Bhd (1005830-X)",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "1005830X",
-      "bg_color": "bg-warning"
+      "registration_number": "1005830-X"
     },
     {
-      "name": "Royale Team Groups",
       "websites": [
         "www.royaleteaminfo.blogspot.com"
       ],
-      "id": "6ee4fc4c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Royale Team Groups",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "RS Capital Holdings Bhd",
       "websites": [],
-      "id": "6ee4fc4d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "RS Capital Holdings Bhd (819833-P)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "819833P",
-      "bg_color": "bg-secondary"
+      "registration_number": "819833-P"
     },
     {
-      "name": "Safeena Gold Gallery",
       "websites": [],
-      "id": "6ee4fc4e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Safeena Gold Gallery (IP0386035-U)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "IP0386035U",
-      "bg_color": "bg-warning"
+      "registration_number": "IP0386035-U"
     },
     {
-      "name": "Sanabil Investment",
       "websites": [
         "www.sanabil.com "
       ],
-      "id": "6ee4fc4f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Sanabil Investment",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Sejati Agarwood Enterprise",
-      "websites": [],
-      "id": "6ee4fc50-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-05-21T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Sera Land Mangement & Enterprise",
       "websites": [],
-      "id": "6ee4fc51-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Sera Land Mangement & Enterprise (JM0503206-P)",
       "added_date": "2013-01-23T00:00:00.000Z",
-      "registration_number": "JM0503206P",
-      "bg_color": "bg-danger"
+      "registration_number": "JM0503206-P"
     },
     {
-      "name": "SFX Management",
       "websites": [
         "http://www.topprofx.com/about.php ",
         "https://www.facebook.com/tpfxmalaysia/?hc_ref=SEARCH&fref=nf "
       ],
-      "id": "6ee4fc52-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SFX Management (KT0339697-V)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "KT0339697V",
-      "bg_color": "bg-danger"
+      "registration_number": "KT0339697-V"
     },
     {
-      "name": "SGFM Trading Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc53-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SGFM Trading Sdn Bhd (936419-V)",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "936419V",
-      "bg_color": "bg-primary"
+      "registration_number": "936419-V"
     },
     {
-      "name": "SGV Premier Plan Scheme",
       "websites": [],
-      "id": "6ee4fc54-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SGV Premier Plan Scheme",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "SimplyFX Malaysia",
       "websites": [
         "https://www.facebook.com/simplyfxmalaysia/"
       ],
-      "id": "6ee4fc55-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SimplyFX Malaysia",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Slimberry Extreme Team",
       "websites": [
         "http://zatslimberry.blogspot.com",
         "slimberryxtreme.com"
       ],
-      "id": "6ee4fc56-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Slimberry Extreme Team",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Smarthink Trading",
       "websites": [],
-      "id": "6ee4fc57-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Smarthink Trading (001973331 - M)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "001973331M",
-      "bg_color": "bg-danger"
+      "registration_number": "001973331 - M"
     },
     {
-      "name": "Smart Trade Entrepreneur",
       "websites": [],
-      "id": "6ee4fc58-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Smart Trade Entrepreneur (002459702D )",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "002459702D",
-      "bg_color": "bg-dark"
+      "registration_number": "002459702D "
     },
     {
-      "name": "Smart Trade Resources Sdn Bhd",
       "websites": [],
-      "id": "6ee4fc59-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Smart Trade Resources Sdn Bhd (1180992A)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "1180992A",
-      "bg_color": "bg-warning"
+      "registration_number": "1180992A"
     },
     {
-      "name": "SMCI Corporation",
       "websites": [
         "www.smci.co"
       ],
-      "id": "6ee52320-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SMCI Corporation",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "Solor Bond Capital Sdn Bhd",
       "websites": [
         "www.mysolarbond.com",
         "http://solarbond-malaysia.blogspot.my"
       ],
-      "id": "6ee52321-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Solor Bond Capital Sdn Bhd (1163697-W)",
       "added_date": "2016-09-15T00:00:00.000Z",
-      "registration_number": "1163697W",
-      "bg_color": "bg-danger"
+      "registration_number": "1163697-W"
     },
     {
-      "name": "Speedline",
       "websites": [
         "www.speedline-inc.com"
       ],
-      "id": "6ee52322-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Speedline",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Spot Gold Scheme",
       "websites": [],
-      "id": "6ee52323-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Spot Gold Scheme",
       "added_date": "2018-04-24T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Srgold Exchange Bhd",
       "websites": [
         "www.srgold.com.my"
       ],
-      "id": "6ee52324-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Srgold Exchange Bhd (1033164-V)",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "1033164V",
-      "bg_color": "bg-warning"
+      "registration_number": "1033164-V"
     },
     {
+      "websites": [],
       "name": "Sri Perkasa Emas Trading",
-      "websites": [],
-      "id": "6ee52325-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Sri Chempaka Emas Enterprise",
       "websites": [],
-      "id": "6ee52326-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Sri Chempaka Emas Enterprise;(SA0293336-P)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "SA0293336P",
-      "bg_color": "bg-warning"
+      "registration_number": "SA0293336-P"
     },
     {
-      "name": "Steady Dynasty Sdn Bhd",
       "websites": [],
-      "id": "6ee52327-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Steady Dynasty Sdn Bhd (782270-H)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "782270H",
-      "bg_color": "bg-primary"
+      "registration_number": "782270-H"
     },
     {
+      "websites": [],
       "name": "Steady Global Network Sdn Bhd",
-      "websites": [],
-      "id": "6ee52328-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Goldex Group International Limited Strategic Solution",
       "websites": [],
-      "id": "6ee52329-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Strategic Solution (Goldex Group International Limited)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": "Goldex Group International Limited"
     },
     {
-      "name": "Superbinvest Group",
       "websites": [
         "https://www.facebook.com/pu3superbinvest/?hc_ref=SEARCH",
         "https://www.facebook.com/pu3superbinvest/  "
       ],
-      "id": "6ee5232a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Superbinvest Group",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Suliz Pearl Mines",
       "websites": [],
-      "id": "6ee5232b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Suliz Pearl Mines",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-info"
+      "registration_number": ""
     },
     {
-      "name": "Suisse Coins Sdn Bhd",
       "websites": [
         "www.suissecoins.com"
       ],
-      "id": "6ee5232c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Suisse Coins Sdn Bhd",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Sweblink Global Network Sdn Bhd",
       "websites": [],
-      "id": "6ee5232d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Sweblink Global Network Sdn Bhd (209952-H)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "209952H",
-      "bg_color": "bg-warning"
+      "registration_number": "209952-H"
     },
     {
-      "name": "Swiss Capital Venture",
       "websites": [],
-      "id": "6ee5232e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Swiss Capital Venture",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "SVD Malaysia",
       "websites": [
         "https://www.facebook.com/svdmalaysia ",
         "https://www.cryptobeggar.net"
       ],
-      "id": "6ee5232f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SVD Malaysia",
       "added_date": "2017-07-31T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "SV International Scheme",
       "websites": [
         "SV International Investment Malaysia (Facebook page)",
         "SV International (Facebook page)"
       ],
-      "id": "6ee52330-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SV International Scheme",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "SV International Sdn Bhd",
       "websites": [],
-      "id": "6ee52331-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "SV International Sdn Bhd (1169355-K)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "1169355K",
-      "bg_color": "bg-secondary"
+      "registration_number": "1169355-K"
     },
     {
-      "name": "Syarikat Azza Motor Network Sdn Bhd",
       "websites": [
         "www.rajakeretaweebly.com",
         "www.rajakereta.com"
       ],
-      "id": "6ee52332-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Syarikat Azza Motor Network Sdn Bhd (104795-P)",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "104795P",
-      "bg_color": "bg-info"
+      "registration_number": "104795-P"
     },
     {
+      "websites": [],
       "name": "Syarikat GECS Ltd",
-      "websites": [],
-      "id": "6ee52333-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Syarikat Sri Alam",
-      "websites": [],
-      "id": "6ee52334-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Tabung Dana Ehsan",
-      "websites": [],
-      "id": "6ee52335-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Tanjung Trading",
       "websites": [],
-      "id": "6ee52336-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Tanjung Trading   ((TR0123942-W)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "TR0123942W",
-      "bg_color": "bg-warning"
+      "registration_number": "TR0123942-W"
     },
     {
-      "name": "Tenaga Setia Services",
       "websites": [],
-      "id": "6ee52337-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Tenaga Setia Services (107239-P)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "107239P",
-      "bg_color": "bg-primary"
+      "registration_number": "107239-P"
     },
     {
+      "websites": [],
       "name": "TF International Group",
-      "websites": [],
-      "id": "6ee52338-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "TF International Group (MY)",
-      "websites": [],
-      "id": "6ee52339-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "TF International W1212 KL Team",
-      "websites": [],
-      "id": "6ee5233a-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "TG Reliance Sdn Bhd",
       "websites": [],
-      "id": "6ee5233b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "TG Reliance Sdn Bhd (1086255-A)",
       "added_date": "2015-09-01T00:00:00.000Z",
-      "registration_number": "1086255A",
-      "bg_color": "bg-danger"
+      "registration_number": "1086255-A"
     },
     {
+      "websites": [],
       "name": "The Gold Guarantee",
-      "websites": [],
-      "id": "6ee5233c-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-11-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Times Travel & Explorer Sdn Bhd",
       "websites": [],
-      "id": "6ee5233d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Times Travel & Explorer Sdn Bhd (1041742-H)",
       "added_date": "2018-04-09T00:00:00.000Z",
-      "registration_number": "1041742H",
-      "bg_color": "bg-success"
+      "registration_number": "1041742-H"
     },
     {
-      "name": "Titan Group Sdn. Bhd",
       "websites": [],
-      "id": "6ee5233e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Titan Group Sdn. Bhd (823732-U)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "823732U",
-      "bg_color": "bg-danger"
+      "registration_number": "823732-U"
     },
     {
-      "name": "TP Eagle Venture Sdn Bhd",
       "websites": [
         "www.tpeagles.com"
       ],
-      "id": "6ee5233f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "TP Eagle Venture Sdn Bhd (1114378-M)",
       "added_date": "2016-07-12T00:00:00.000Z",
-      "registration_number": "1114378M",
-      "bg_color": "bg-success"
+      "registration_number": "1114378-M"
     },
     {
-      "name": "Trillion Venture",
       "websites": [
         "https://trivfx.com"
       ],
-      "id": "6ee52340-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Trillion Venture",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Triple One Management Pte Ltd",
       "websites": [
         "http://www.t1fx.com"
       ],
-      "id": "6ee52341-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Triple One Management Pte Ltd ( T1FX)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "T1FX",
-      "bg_color": "bg-success"
+      "registration_number": " T1FX"
     },
     {
-      "name": "Tü-E Capital Berhad",
       "websites": [
         "https://tu-e.capital/",
         "http://www.tu-e.com.my/"
       ],
-      "id": "6ee52342-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Tü-E Capital Berhad (806096-H)",
       "added_date": "2018-03-13T00:00:00.000Z",
-      "registration_number": "806096H",
-      "bg_color": "bg-secondary"
+      "registration_number": "806096-H"
     },
     {
-      "name": "TukarGold.net",
       "websites": [
         "www.tukargold.net"
       ],
-      "id": "6ee52343-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "TukarGold.net",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Toga Capital Sdn Bhd",
       "websites": [
         "http://togacapital.com.my/ ",
         "https://www.facebook.com/TogaCapitalLimited/ "
       ],
-      "id": "6ee52344-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Toga Capital Sdn Bhd (1132072-MD)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "1132072MD",
-      "bg_color": "bg-dark"
+      "registration_number": "1132072-MD"
     },
     {
-      "name": "Toga Company Limited",
       "websites": [],
-      "id": "6ee52345-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Toga Company Limited",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "TopproFX",
       "websites": [
         "http://www.topprofx.com/about.php ",
         "https://www.facebook.com/tpfxmalaysia/?hc_ref=SEARCH&fref=nf "
       ],
-      "id": "6ee52346-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "TopproFX",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "UER Gold",
       "websites": [
         "https://uergold.com/profitsharing.php-inaccessible"
       ],
-      "id": "6ee52347-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "UER Gold",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "UFUNCLUB",
       "websites": [
         "www.jutawanufunclub.com",
         "ufunclub2me.bolgspot.com"
       ],
-      "id": "6ee52348-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "UFUNCLUB",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "Ultimate Power Profits",
       "websites": [
         "www.ultimatepowerprofits.yolasite.com"
       ],
-      "id": "6ee52349-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Ultimate Power Profits",
       "added_date": "2012-10-16T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "United American Traders Council",
       "websites": [
         "www.uatconline.com"
       ],
-      "id": "6ee5234a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "United American Traders Council",
       "added_date": "2013-11-12T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Uni Argrow (Cambodia) Co. Ltd",
       "websites": [
         "www.argrow.biz",
         "www.unicapasia.net"
       ],
-      "id": "6ee5234b-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Uni Argrow (Cambodia) Co. Ltd",
       "added_date": "2014-12-30T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": "Cambodia"
     },
     {
-      "name": "Uncang Teguh Resources ",
       "websites": [],
-      "id": "6ee5234c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Uncang Teguh Resources  (0000102116-T)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "0000102116T",
-      "bg_color": "bg-danger"
+      "registration_number": "0000102116-T"
     },
     {
-      "name": "Urustabil Sdn Bhd",
       "websites": [],
-      "id": "6ee5234d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Urustabil Sdn Bhd (545426-X)",
       "added_date": "2012-09-27T00:00:00.000Z",
-      "registration_number": "545426X",
-      "bg_color": "bg-warning"
+      "registration_number": "545426-X"
     },
     {
-      "name": "VC Gold Sdn Bhd",
       "websites": [],
-      "id": "6ee5234e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "VC Gold Sdn Bhd (722295-T)",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "722295T",
-      "bg_color": "bg-warning"
+      "registration_number": "722295-T"
     },
     {
+      "websites": [],
       "name": "Virgin Gold Mining Corporation",
-      "websites": [],
-      "id": "6ee5234f-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": ""
     },
     {
-      "name": "VenusFX",
       "websites": [
         "www.venusfx.com"
       ],
-      "id": "6ee52350-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "VenusFX",
       "added_date": "2016-06-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "V Save FX Trading",
       "websites": [],
-      "id": "6ee52351-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "V Save FX Trading (002482098 - K)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "002482098K",
-      "bg_color": "bg-info"
+      "registration_number": "002482098 - K"
     },
     {
-      "name": "V Sim Marketing",
       "websites": [],
-      "id": "6ee52352-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "V Sim Marketing (002283635 - U)",
       "added_date": "2017-09-19T00:00:00.000Z",
-      "registration_number": "002283635U",
-      "bg_color": "bg-success"
+      "registration_number": "002283635 - U"
     },
     {
+      "websites": [],
       "name": "Verger Management Services",
-      "websites": [],
-      "id": "6ee52353-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "VI Profit Galaxy (DSV Cryptoclub & LUX Galaxies)",
       "websites": [
         "https://luxgalaxies.com/",
         "https://www.lavidacoin.com/  "
       ],
-      "id": "6ee52354-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "VI Profit Galaxy (DSV Cryptoclub & LUX Galaxies)",
       "added_date": "2018-08-29T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-primary"
+      "registration_number": "DSV Cryptoclub & LUX Galaxies"
     },
     {
-      "name": "Wadiah Trading",
       "websites": [
         "www.wadiahtrading.com"
       ],
-      "id": "6ee52355-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Wadiah Trading",
       "added_date": "2015-12-23T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Water Beaute World Berhad",
       "websites": [
         "https://wbwglobal.wordpress.com/",
         "http://wbwig.blogspot.my/"
       ],
-      "id": "6ee52356-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Water Beaute World Berhad",
       "added_date": "2017-05-09T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": ""
     },
     {
-      "name": "Water World Marketing ",
       "websites": [],
-      "id": "6ee52357-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Water World Marketing  (CA0177161-P)",
       "added_date": "2014-07-25T00:00:00.000Z",
-      "registration_number": "CA0177161P",
-      "bg_color": "bg-secondary"
+      "registration_number": "CA0177161-P"
     },
     {
-      "name": "Webster Trade Consulting Sdn Bhd",
       "websites": [
         "www.wtcpro.com",
         "http://wtcprolimited.blogspot.my"
       ],
-      "id": "6ee52358-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Webster Trade Consulting Sdn Bhd (1171420D)",
       "added_date": "2017-02-24T00:00:00.000Z",
-      "registration_number": "1171420D",
-      "bg_color": "bg-dark"
+      "registration_number": "1171420D"
     },
     {
-      "name": "Westrank Equity Sdn Bhd",
       "websites": [],
-      "id": "6ee52359-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Westrank Equity Sdn Bhd (1046449-A)",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "1046449A",
-      "bg_color": "bg-dark"
+      "registration_number": "1046449-A"
     },
     {
-      "name": "Windsor Fragrance Sdn Bhd",
       "websites": [],
-      "id": "6ee5235a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Windsor Fragrance Sdn Bhd (599208-H)",
       "added_date": "2014-10-20T00:00:00.000Z",
-      "registration_number": "599208H",
-      "bg_color": "bg-success"
+      "registration_number": "599208-H"
     },
     {
+      "websites": [],
       "name": "WMS Capital Ltd (Labuan)",
-      "websites": [],
-      "id": "6ee5235b-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-success"
+      "registration_number": "Labuan"
     },
     {
-      "name": "WMS Global Services",
       "websites": [],
-      "id": "6ee5235c-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "WMS Global Services (PG0402301-M)",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "PG0402301M",
-      "bg_color": "bg-secondary"
+      "registration_number": "PG0402301-M"
     },
     {
-      "name": "World Dirham Berhad",
       "websites": [],
-      "id": "6ee5235d-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "World Dirham Berhad (970807-X)",
       "added_date": "2013-07-22T00:00:00.000Z",
-      "registration_number": "970807X",
-      "bg_color": "bg-dark"
+      "registration_number": "970807-X"
     },
     {
-      "name": "Worldwide Community Programme",
       "websites": [
         "https://wcp2u.com/"
       ],
-      "id": "6ee5235e-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Worldwide Community Programme",
       "added_date": "2016-09-15T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "WSL Merchants Pte Ltd",
       "websites": [
         "www.worldshopperslink.com",
         "www.click4dollar.com"
       ],
-      "id": "6ee5235f-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "WSL Merchants Pte Ltd",
       "added_date": "2012-10-16T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     },
     {
-      "name": "Xcelent Job Trading",
       "websites": [],
-      "id": "6ee52360-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Xcelent Job Trading (001971755P)",
       "added_date": "2017-01-09T00:00:00.000Z",
-      "registration_number": "001971755P",
-      "bg_color": "bg-dark"
+      "registration_number": "001971755P"
     },
     {
-      "name": "XIG Limited",
       "websites": [
         "www.xiglimitedmalaysia.com ",
         "https://my.xiglimited.com  https://www.facebook.com/xiglimitedofficial https://www.facebook.com/myduitcom"
       ],
-      "id": "6ee52361-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "XIG Limited",
       "added_date": "2017-08-28T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-danger"
+      "registration_number": ""
     },
     {
-      "name": "XM Forex Malaysia",
       "websites": [
         "https://www.xm.com/my"
       ],
-      "id": "6ee52362-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "XM Forex Malaysia",
       "added_date": "2017-12-06T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "XOC7",
-      "websites": [],
-      "id": "6ee52363-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "YDS Corporate Line Sdn Bhd",
       "websites": [
         "http://yds2u.com"
       ],
-      "id": "6ee52364-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "YDS Corporate Line Sdn Bhd (877697-P)",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "877697P",
-      "bg_color": "bg-success"
+      "registration_number": "877697-P"
     },
     {
-      "name": "YDS Holding Groups Bhd",
       "websites": [
         "http://yds2u.com"
       ],
-      "id": "6ee52365-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "YDS Holding Groups Bhd (987797-T)",
       "added_date": "2013-05-02T00:00:00.000Z",
-      "registration_number": "987797T",
-      "bg_color": "bg-info"
+      "registration_number": "987797-T"
     },
     {
-      "name": "ZEMC Sdn Bhd",
       "websites": [],
-      "id": "6ee52366-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "ZEMC Sdn Bhd (1216874-A)",
       "added_date": "2017-06-22T00:00:00.000Z",
-      "registration_number": "1216874A",
-      "bg_color": "bg-secondary"
+      "registration_number": "1216874-A"
     },
     {
-      "name": "Zenith Gold International Limited (ZGI)",
       "websites": [
         "http://www.zenithgolds.com",
         "http://zenithgoldrocks.wordpress.com http://zenithgoldpowerteam.blogspot.my"
       ],
-      "id": "6ee52367-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Zenith Gold International Limited (ZGI)",
       "added_date": "2016-02-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
+      "websites": [],
       "name": "Zeta Capital Management",
-      "websites": [],
-      "id": "6ee52368-7ebd-11e9-8d64-43f9d5e75332",
       "added_date": "2012-07-13T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-warning"
+      "registration_number": ""
     },
     {
-      "name": "Zill Akasha Gemilang Enterprise",
       "websites": [],
-      "id": "6ee52369-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Zill Akasha Gemilang Enterprise",
       "added_date": "2015-04-10T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-dark"
+      "registration_number": ""
     },
     {
-      "name": "Zness.com",
       "websites": [
         "http://zness.com"
       ],
-      "id": "6ee5236a-7ebd-11e9-8d64-43f9d5e75332",
+      "name": "Zness.com",
       "added_date": "2013-09-25T00:00:00.000Z",
-      "registration_number": "",
-      "bg_color": "bg-secondary"
+      "registration_number": ""
     }
   ]
 }
