@@ -8,25 +8,6 @@ import './Consumer.scss'
 // eslint-disable-next-line no-useless-escape
 const isValidWebsite = /^(?:http(s)?:\/\/)?[\w.-]+(?:\.[\w\.-]+)+[\w\-\._~:/?#[\]@!\$&'\(\)\*\+,;=.]+$/
 
-function random(min: number, max: number) {
-  return Math.floor(Math.random() * (+max - +min)) + +min
-}
-
-function randomColor() {
-  const defaultCssColors = [
-    'bg-danger',
-    'bg-dark',
-    'bg-info',
-    'bg-primary',
-    'bg-secondary',
-    'bg-success',
-    'bg-warning',
-    'bg-dark',
-  ]
-
-  return defaultCssColors[random(0, defaultCssColors.length)]
-}
-
 const Link: React.FC<{ url: string }> = ({ url }) => {
   if (!url || !isValidWebsite.test(url)) {
     return null
@@ -53,14 +34,14 @@ const Link: React.FC<{ url: string }> = ({ url }) => {
 }
 
 const Consumer: React.FC<{ item: IConsumerAlert }> = ({ item }) => {
-  const { name, registration_number, websites, added_date } = item
+  const { name, registration_number, websites, added_date, bg_color } = item
   const avatar = name.slice(0, 2).toUpperCase()
 
   const date = `${added_date.getDate()}/${added_date.getMonth()}/${added_date.getFullYear()}`
 
   return (
     <li className="consumer__list consumer__list-style">
-      <div className={`consumer__avatar ${randomColor()}`}>{avatar}</div>
+      <div className={`consumer__avatar ${bg_color}`}>{avatar}</div>
       <div className="consumer__content">
         <div className="consumer__content__heading">
           <p className="mb-0">

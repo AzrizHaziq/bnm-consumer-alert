@@ -30,6 +30,7 @@ const App: React.FC = () => {
       const reMapConsumerAlertResponse = consumerAlertsResponse.data.map(
         (consumer: IConsumerAlert) => ({
           ...consumer,
+          bg_color: randomColor(),
           added_date: new Date(consumer.added_date),
         }),
       )
@@ -92,3 +93,22 @@ const App: React.FC = () => {
 }
 
 export default App
+
+function random(min: number, max: number) {
+  return Math.floor(Math.random() * (+max - +min)) + +min
+}
+
+function randomColor() {
+  const defaultCssColors = [
+    'bg-danger',
+    'bg-dark',
+    'bg-info',
+    'bg-primary',
+    'bg-secondary',
+    'bg-success',
+    'bg-warning',
+    'bg-dark',
+  ]
+
+  return defaultCssColors[random(0, defaultCssColors.length)]
+}
