@@ -19,12 +19,13 @@ function reMapConsumerAlerts({ meta, data: bnmConsumerAlerts }) {
     meta,
     data: bnmConsumerAlerts.map(
       // eslint-disable-next-line camelcase
-      ({ regisration_number, added_date, ...item }) => ({
+      ({ registration_number, added_date, name, ...item }) => ({
         ...item,
-        id: uuid(),
+        name,
         added_date: new Date(added_date),
-        registration_number: regisration_number,
-        bg_color: randomColor(),
+        registration_number: /\(.{4,}\)/.exec(name)
+          ? /\(.{4,}\)/.exec(name)[0].replace(/[()]/g, i  => ({ '(': '', ')': '' })[i])
+          : ''
       }),
     )
   }
