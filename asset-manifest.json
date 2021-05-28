@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/bnm-consumer-alert/static/css/main.8d7c3d65.chunk.css",
-    "main.js": "/bnm-consumer-alert/static/js/main.922b5d3b.chunk.js",
-    "main.js.map": "/bnm-consumer-alert/static/js/main.922b5d3b.chunk.js.map",
-    "runtime~main.js": "/bnm-consumer-alert/static/js/runtime~main.57675e35.js",
-    "runtime~main.js.map": "/bnm-consumer-alert/static/js/runtime~main.57675e35.js.map",
-    "static/js/2.c9f58138.chunk.js": "/bnm-consumer-alert/static/js/2.c9f58138.chunk.js",
-    "static/js/2.c9f58138.chunk.js.map": "/bnm-consumer-alert/static/js/2.c9f58138.chunk.js.map",
+    "main.css": "/bnm-consumer-alert/static/css/main.f04aee88.chunk.css",
+    "main.js": "/bnm-consumer-alert/static/js/main.cc364990.chunk.js",
+    "main.js.map": "/bnm-consumer-alert/static/js/main.cc364990.chunk.js.map",
+    "runtime-main.js": "/bnm-consumer-alert/static/js/runtime-main.8d769d21.js",
+    "runtime-main.js.map": "/bnm-consumer-alert/static/js/runtime-main.8d769d21.js.map",
+    "static/js/2.744d7415.chunk.js": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js",
+    "static/js/2.744d7415.chunk.js.map": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js.map",
     "index.html": "/bnm-consumer-alert/index.html",
-    "precache-manifest.2b69ce69073c47a5f419b680c0ae4d10.js": "/bnm-consumer-alert/precache-manifest.2b69ce69073c47a5f419b680c0ae4d10.js",
-    "service-worker.js": "/bnm-consumer-alert/service-worker.js",
-    "static/css/main.8d7c3d65.chunk.css.map": "/bnm-consumer-alert/static/css/main.8d7c3d65.chunk.css.map"
-  }
+    "static/css/main.f04aee88.chunk.css.map": "/bnm-consumer-alert/static/css/main.f04aee88.chunk.css.map",
+    "static/js/2.744d7415.chunk.js.LICENSE.txt": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d769d21.js",
+    "static/js/2.744d7415.chunk.js",
+    "static/css/main.f04aee88.chunk.css",
+    "static/js/main.cc364990.chunk.js"
+  ]
 }
