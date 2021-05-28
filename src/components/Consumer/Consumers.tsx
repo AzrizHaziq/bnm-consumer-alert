@@ -1,9 +1,9 @@
 import { v1 as uuid } from 'uuid'
 import { escapeRegExp } from 'helpers'
 import React, { useContext } from 'react'
+import { EmptyState } from 'components'
 import { IConsumerAlert } from 'data/consumer-alerts'
 import Consumer from 'components/Consumer/Consumer'
-import EmptyState from 'components/EmptyState/EmptyState'
 import { ISearchContext, SearchContext } from 'data/Search.context/search.context'
 import { ConsumerAlertContext, IConsumerContext } from 'data/Consumer.context/consumer-alert.context'
 

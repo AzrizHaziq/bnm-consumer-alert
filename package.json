@@ -7,13 +7,14 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
+    "postbuild": "react-snap",
     "test": "react-app-rewired test --env=jsdom",
     "eject": "react-scripts eject",
     "test:coverage": "CI=true yarn test -- --coverage",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "precommit": "lint-staged",
-    "update-consumer-data": "node update-consumer-json.js"
+    "update-data": "node update-consumer-json.js"
   },
   "dependencies": {
     "@types/jest": "26.0.23",
