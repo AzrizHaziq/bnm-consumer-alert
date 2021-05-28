@@ -1,12 +1,9 @@
 import React, { useContext, useState } from 'react'
-import {
-  ConsumerAlertContext,
-  IConsumerContext,
-} from 'data/Consumer.context/consumer-alert.context'
+import { ConsumerAlertContext, IConsumerContext } from 'data/Consumer.context/consumer-alert.context'
 import { orderBy } from 'data/consumer-alerts'
 import './Sort.scss'
 
-const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }) =>
+const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }: { sort: 'asc' | 'desc' }) =>
   sort === 'asc' ? (
     // arrow-up
     <svg className="sort__icon-arrow" viewBox="0 0 24 24">
@@ -19,12 +16,10 @@ const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }) =>
     </svg>
   ) : null
 
-const Sort: React.FC = () => {
+export const Sort: React.FC = () => {
   const [alphabetOrder, setAlphabetOrder] = useState<any>(null)
   const [dateOrder, setDateOrder] = useState<any>(null)
-  const { setConsumerList, consumerList } = useContext<IConsumerContext>(
-    ConsumerAlertContext,
-  )
+  const { setConsumerList, consumerList } = useContext<IConsumerContext>(ConsumerAlertContext)
 
   function toggleAlphabet() {
     setDateOrder(null)
@@ -60,11 +55,7 @@ const Sort: React.FC = () => {
     <div className="row justify-content-center">
       <div className="col-sm-12 col-lg-10">
         <div className="sort">
-          <button
-            className="sort-alphabet mr-2"
-            type="button"
-            onClick={toggleAlphabet}
-          >
+          <button className="sort-alphabet mr-2" type="button" onClick={toggleAlphabet}>
             <ArrowIcon sort={alphabetOrder} />
             <svg className="sort__icon" viewBox="0 0 24 24">
               <path d="M6,11A2,2 0 0,1 8,13V17H4A2,2 0 0,1 2,15V13A2,2 0 0,1 4,11H6M4,13V15H6V13H4M20,13V15H22V17H20A2,2 0 0,1 18,15V13A2,2 0 0,1 20,11H22V13H20M12,7V11H14A2,2 0 0,1 16,13V15A2,2 0 0,1 14,17H12A2,2 0 0,1 10,15V7H12M12,15H14V13H12V15Z" />
@@ -82,5 +73,3 @@ const Sort: React.FC = () => {
     </div>
   )
 }
-
-export default Sort

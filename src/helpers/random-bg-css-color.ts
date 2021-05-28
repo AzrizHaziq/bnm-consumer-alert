@@ -11,6 +11,6 @@ const defaultCssColors = [
   'bg-dark',
 ]
 
-export function randomBgCssColor(colors: string[] = defaultCssColors) {
+export function randomBgCssColor(colors: string[] = defaultCssColors): string {
   return colors[random(0, colors.length)]
 }

@@ -1,39 +1,31 @@
+import { randomBgCssColor } from 'helpers'
+import Consumers from '../Consumer/Consumers'
 import React, { useEffect, useState } from 'react'
 import { IConsumerAlert } from 'data/consumer-alerts'
-
-import Sort from 'components/Sort/Sort'
-import Tags from 'components/Tags/Tags'
-import Spinner from 'components/Spinner/Spinner'
-import Consumers from 'components/Consumer/Consumers'
-import SearchBox from 'components/SearchBox/SearchBox'
-import EmptyState from 'components/EmptyState/EmptyState'
-import ErrorMessage from 'components/ErrorMessage/ErrorMesssage'
 import { Search } from 'data/Search.context/search.context'
 import { ConsumerAlert } from 'data/Consumer.context/consumer-alert.context'
+import { EmptyState, ErrorMessage, SearchBox, Sort, Spinner, Tags } from 'components'
 
 import './App.scss'
 
 const App: React.FC = () => {
   const [error, setError] = useState<any>(null)
   const [loading, setLoading] = useState<boolean>(false)
-  const [consumerList, setConsumerList] = useState<IConsumerAlert[] | null>(
-    null,
-  )
+  const [consumerList, setConsumerList] = useState<IConsumerAlert[] | null>(null)
 
   async function getConsumerAlerts() {
     try {
       const res = await fetch(
-        'https://raw.githubusercontent.com/AzrizHaziq/bnm-consumer-alert/master/consumer-alert.json',
+        'https://raw.githubusercontent.com/AzrizHaziq/bnm-consumer-alert/master/consumer-alert.json'
       )
+
       const consumerAlertsResponse = await res.json()
 
-      const reMapConsumerAlertResponse = consumerAlertsResponse.data.map(
-        (consumer: IConsumerAlert) => ({
-          ...consumer,
-          bg_color: randomColor(),
-          added_date: new Date(consumer.added_date),
-        }),
-      )
+      const reMapConsumerAlertResponse = consumerAlertsResponse.data.map((consumer: IConsumerAlert) => ({
+        ...consumer,
+        bg_color: randomBgCssColor(),
+        added_date: new Date(consumer.added_date),
+      }))
 
       setConsumerList(reMapConsumerAlertResponse)
     } catch (e) {
@@ -70,9 +62,7 @@ const App: React.FC = () => {
               <div className="container mt-5">
                 <div className="row justify-content-center">
                   <div className="col-sm-12 col-lg-10">
-                    <h2 className="text-white-50 mb-4 mr-4">
-                      BNM Consumer Alert
-                    </h2>
+                    <h2 className="text-white-50 mb-4 mr-4">BNM Consumer Alert</h2>
                   </div>
                 </div>
                 <SearchBox />
@@ -93,22 +83,3 @@ const App: React.FC = () => {
 }
 
 export default App
-
-function random(min: number, max: number) {
-  return Math.floor(Math.random() * (+max - +min)) + +min
-}
-
-function randomColor() {
-  const defaultCssColors = [
-    'bg-danger',
-    'bg-dark',
-    'bg-info',
-    'bg-primary',
-    'bg-secondary',
-    'bg-success',
-    'bg-warning',
-    'bg-dark',
-  ]
-
-  return defaultCssColors[random(0, defaultCssColors.length)]
-}

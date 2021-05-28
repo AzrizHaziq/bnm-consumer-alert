@@ -10,13 +10,5 @@ export const sortBy = (key: string, by: 'asc' | 'desc') => (arr: any[]) =>
     const { [key]: a1 } = a
     const { [key]: b1 } = b
 
-    return (by === 'asc'
-    ? a1 > b1
-    : a1 < b1)
-      ? 1
-      : (by === 'asc'
-        ? a1 < b1
-        : a1 > b1)
-      ? -1
-      : 0
+    return (by === 'asc' ? a1 > b1 : a1 < b1) ? 1 : (by === 'asc' ? a1 < b1 : a1 > b1) ? -1 : 0
   })

@@ -1,14 +1,13 @@
 import React from 'react'
 import './EmptyState.scss'
 
-const EmptyState: React.FC<{ str: string }> = ({ str }) => (
+export const EmptyState: React.FC<{ str: string }> = ({ str }: { str: string }) => (
   <div className="empty__state-wrapper">
     <svg
       className="empty__icon"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 1120.59226 777.91584"
-    >
+      viewBox="0 0 1120.59226 777.91584">
       <title>not found</title>
       <circle cx="212.59226" cy="103" r="64" fill="#ff6584" />
       <path
@@ -29,34 +28,10 @@ const EmptyState: React.FC<{ str: string }> = ({ str }) => (
         points="950.482 552.833 952.162 449.383 1022.119 321.4 952.426 433.154 953.182 386.639 1001.396 294.044 953.382 374.329 953.382 374.329 954.741 290.669 1006.369 216.952 954.954 277.514 955.804 124.11 950.467 327.188 950.906 318.811 898.414 238.464 950.064 334.893 945.173 428.327 945.027 425.847 884.514 341.294 944.844 434.608 944.232 446.293 944.123 446.469 944.173 447.428 931.764 684.478 948.343 684.478 950.332 562.037 1010.514 468.952 950.482 552.833"
         fill="#3f3d56"
       />
-      <ellipse
-        cx="554.59226"
-        cy="680.47903"
-        rx="554.59226"
-        ry="28.03433"
-        fill="#3f3d56"
-      />
-      <ellipse
-        cx="892.44491"
-        cy="726.79663"
-        rx="94.98858"
-        ry="4.80162"
-        fill="#3f3d56"
-      />
-      <ellipse
-        cx="548.71959"
-        cy="773.11422"
-        rx="94.98858"
-        ry="4.80162"
-        fill="#3f3d56"
-      />
-      <ellipse
-        cx="287.94432"
-        cy="734.27887"
-        rx="217.01436"
-        ry="10.96996"
-        fill="#3f3d56"
-      />
+      <ellipse cx="554.59226" cy="680.47903" rx="554.59226" ry="28.03433" fill="#3f3d56" />
+      <ellipse cx="892.44491" cy="726.79663" rx="94.98858" ry="4.80162" fill="#3f3d56" />
+      <ellipse cx="548.71959" cy="773.11422" rx="94.98858" ry="4.80162" fill="#3f3d56" />
+      <ellipse cx="287.94432" cy="734.27887" rx="217.01436" ry="10.96996" fill="#3f3d56" />
       <circle cx="97.08375" cy="566.26982" r="79" fill="#2f2e41" />
       <rect
         x="99.80546"
@@ -188,5 +163,3 @@ const EmptyState: React.FC<{ str: string }> = ({ str }) => (
     <small className="empty__default-msg">Its empty here</small>
   </div>
 )
-
-export default EmptyState

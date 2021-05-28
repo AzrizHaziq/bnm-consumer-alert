@@ -1,13 +1,7 @@
 import React from 'react'
 
-const Spinner: React.FC = () => (
-  <svg
-    width="44"
-    height="44"
-    viewBox="0 0 44 44"
-    xmlns="http://www.w3.org/2000/svg"
-    stroke="#fff"
-  >
+export const Spinner: React.FC = () => (
+  <svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" stroke="#fff">
     <g fill="none">
       <circle cx="22" cy="22" r="1">
         <animate
@@ -56,5 +50,3 @@ const Spinner: React.FC = () => (
     </g>
   </svg>
 )
-
-export default Spinner

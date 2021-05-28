@@ -1,7 +1,7 @@
 import React from 'react'
 import './ErrorMesssage.scss'
 
-const ErrorMessage: React.FC<{ str: string }> = ({ str }) => (
+export const ErrorMessage: React.FC<{ str: string }> = ({ str }: { str: string }) => (
   <div className="error__message py-3 px-4">
     <div className="error__icon-wrapper">
       <svg className="error__icon" viewBox="0 0 24 24">
@@ -11,5 +11,3 @@ const ErrorMessage: React.FC<{ str: string }> = ({ str }) => (
     <p className="mb-0">{str}</p>
   </div>
 )
-
-export default ErrorMessage

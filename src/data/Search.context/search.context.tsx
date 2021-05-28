@@ -1,14 +1,18 @@
-import React, { createContext, ReactNode, useState } from 'react'
+import React, { createContext, ReactNode, SetStateAction, useState } from 'react'
 
 const SearchContext = createContext<ISearchContext>({
   currentSearch: '',
-  setSearch: () => {},
-  resetSearch: () => {},
+  setSearch: () => {
+    /**/
+  },
+  resetSearch: () => {
+    /**/
+  },
 })
 
 const SearchContextProvider = SearchContext.Provider
 
-const Search: React.FC<ISearchProp> = ({ initialSearch, children }) => {
+const Search: React.FC<ISearchProp> = ({ initialSearch, children }: ISearchProp) => {
   const [search, setSearch] = useState<string>(initialSearch)
 
   function resetSearch() {
@@ -21,8 +25,7 @@ const Search: React.FC<ISearchProp> = ({ initialSearch, children }) => {
         currentSearch: search,
         setSearch,
         resetSearch,
-      }}
-    >
+      }}>
       {children}
     </SearchContextProvider>
   )
@@ -32,8 +35,8 @@ export { Search, SearchContext, SearchContextProvider }
 
 export interface ISearchContext {
   currentSearch: string
-  setSearch: Function
-  resetSearch: Function
+  setSearch: (value: SetStateAction<string>) => void
+  resetSearch: () => void
 }
 
 interface ISearchProp {

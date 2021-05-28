@@ -1,4 +1,3 @@
-const uuid = require('uuid/v1')
 const http = require('https')
 const fs = require('fs')
 const path = require('path')
@@ -7,7 +6,7 @@ const transformerConsumerAlertsData = pipe(
   JSON.parse,
   reMapConsumerAlerts,
   consumerAlerts => JSON.stringify(consumerAlerts, null, 2),
-  writeToConsumerJson,
+  writeToConsumerJson
 )
 
 function pipe(...fns) {
@@ -24,11 +23,9 @@ function reMapConsumerAlerts({ meta, data: bnmConsumerAlerts }) {
         name,
         added_date: new Date(added_date),
         registration_number: /\(.{4,}\)/.exec(name)
-          ? /\(.{4,}\)/
-              .exec(name)[0]
-              .replace(/[()]/g, i => ({ '(': '', ')': '' }[i]))
+          ? /\(.{4,}\)/.exec(name)[0].replace(/[()]/g, i => ({ '(': '', ')': '' }[i]))
           : '',
-      }),
+      })
     ),
   }
 }
@@ -40,22 +37,18 @@ function getConsumerFromBNM() {
     },
   }
 
-  const req = http.get(
-    'https://api.bnm.gov.my/public/consumer-alert',
-    options,
-    res => {
-      const chunks = []
+  const req = http.get('https://api.bnm.gov.my/public/consumer-alert', options, res => {
+    const chunks = []
 
-      res.on('data', chunk => {
-        chunks.push(chunk)
-      })
+    res.on('data', chunk => {
+      chunks.push(chunk)
+    })
 
-      res.on('end', () => {
-        const body = Buffer.concat(chunks)
-        transformerConsumerAlertsData(body.toString())
-      })
-    },
-  )
+    res.on('end', () => {
+      const body = Buffer.concat(chunks)
+      transformerConsumerAlertsData(body.toString())
+    })
+  })
 
   req.end()
   req.on('error', err => {

@@ -35,15 +35,8 @@ export const keywords = (arr: IConsumerAlert[]): Map<string, number> =>
     return acc
   }, new Map())
 
-export const mostUsedWords = pipe(
-  keywords,
-  mapToArray,
-  sortBy('v', 'desc'),
-  (list: IConsumerAlert[]) => list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY),
+export const mostUsedWords = pipe<any>(keywords, mapToArray, sortBy('v', 'desc'), (list: IConsumerAlert[]) =>
+  list.slice(0, PLUCK_MOST_USED_KEYWORDS_BY)
 )
 
-export const orderBy = (key: string, by: 'asc' | 'desc') =>
-  pipe(
-    sortBy(key, by),
-    (list: IConsumerAlert[]) => [...list],
-  )
+export const orderBy = (key: string, by: 'asc' | 'desc') => pipe(sortBy(key, by), (list: IConsumerAlert[]) => [...list])

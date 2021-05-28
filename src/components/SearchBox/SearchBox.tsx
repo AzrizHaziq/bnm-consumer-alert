@@ -1,12 +1,9 @@
 import React, { useContext } from 'react'
-import {
-  ISearchContext,
-  SearchContext,
-} from 'data/Search.context/search.context'
+import { ISearchContext, SearchContext } from 'data/Search.context/search.context'
 
 import './SearchBox.scss'
 
-const SearchBox: React.FC = () => {
+export const SearchBox: React.FC = () => {
   const { currentSearch, setSearch } = useContext<ISearchContext>(SearchContext)
 
   function onChange(e: any) {
@@ -29,5 +26,3 @@ const SearchBox: React.FC = () => {
     </div>
   )
 }
-
-export default SearchBox
