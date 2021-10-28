@@ -1,6 +1,6 @@
 import React from 'react'
 import { v1 as uuid } from 'uuid'
-import { pipe } from 'helpers'
+import { pipe, leadingZero } from 'helpers'
 import { IConsumerAlert } from 'data/consumer-alerts'
 
 import './Consumer.scss'
@@ -31,8 +31,8 @@ const Link: React.FC<{ url: string }> = ({ url }: { url: string }) => {
 const Consumer: React.FC<{ item: IConsumerAlert }> = ({ item }: { item: IConsumerAlert }) => {
   const { name, registration_number, websites, added_date, bg_color } = item
   const avatar = name.slice(0, 2).toUpperCase()
-
-  const date = `${added_date.getDate()}/${added_date.getMonth()}/${added_date.getFullYear()}`
+  const month = added_date.getMonth() + +1
+  const date = `${leadingZero(added_date.getDate())}/${leadingZero(month)}/${added_date.getFullYear()}`
 
   return (
     <li className="consumer__list consumer__list-style">
