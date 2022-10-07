@@ -15,6 +15,7 @@
     box-shadow: $box-shadow;
     background: rgba($black, 0.5);
     margin: 5px;
+    cursor: pointer;
 
     &:hover {
       box-shadow: $box-shadow-lg;
