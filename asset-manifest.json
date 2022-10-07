@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bnm-consumer-alert/static/css/main.f04aee88.chunk.css",
-    "main.js": "/bnm-consumer-alert/static/js/main.7b62a21a.chunk.js",
-    "main.js.map": "/bnm-consumer-alert/static/js/main.7b62a21a.chunk.js.map",
+    "main.css": "/bnm-consumer-alert/static/css/main.afaec8d2.chunk.css",
+    "main.js": "/bnm-consumer-alert/static/js/main.aa81cd98.chunk.js",
+    "main.js.map": "/bnm-consumer-alert/static/js/main.aa81cd98.chunk.js.map",
     "runtime-main.js": "/bnm-consumer-alert/static/js/runtime-main.8d769d21.js",
     "runtime-main.js.map": "/bnm-consumer-alert/static/js/runtime-main.8d769d21.js.map",
     "static/js/2.744d7415.chunk.js": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js",
     "static/js/2.744d7415.chunk.js.map": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js.map",
     "index.html": "/bnm-consumer-alert/index.html",
-    "static/css/main.f04aee88.chunk.css.map": "/bnm-consumer-alert/static/css/main.f04aee88.chunk.css.map",
+    "static/css/main.afaec8d2.chunk.css.map": "/bnm-consumer-alert/static/css/main.afaec8d2.chunk.css.map",
     "static/js/2.744d7415.chunk.js.LICENSE.txt": "/bnm-consumer-alert/static/js/2.744d7415.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d769d21.js",
     "static/js/2.744d7415.chunk.js",
-    "static/css/main.f04aee88.chunk.css",
-    "static/js/main.7b62a21a.chunk.js"
+    "static/css/main.afaec8d2.chunk.css",
+    "static/js/main.aa81cd98.chunk.js"
   ]
 }
