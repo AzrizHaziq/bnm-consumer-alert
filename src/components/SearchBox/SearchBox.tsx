@@ -6,8 +6,8 @@ import './SearchBox.scss'
 export const SearchBox: React.FC = () => {
   const { currentSearch, setSearch } = useContext<ISearchContext>(SearchContext)
 
-  function onChange(e: ChangeEvent) {
-    const input = (e.target as HTMLInputElement).value
+  function onChange(e: ChangeEvent<HTMLInputElement>) {
+    const input = e.target.value
     setSearch(input)
   }
 
