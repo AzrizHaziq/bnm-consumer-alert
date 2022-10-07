@@ -54,7 +54,7 @@ const Consumer: React.FC<{ item: IConsumerAlert }> = ({ item }: { item: IConsume
         </div>
         <ul className="consumer__list__websites consumer__list-style">
           {websites.map(website => {
-            const url: any = website.trim()
+            const url = website.trim()
 
             if (url.split(' ').length > 1) {
               return url.split(' ').map((data: string) => <Link key={uuid()} url={data} />)

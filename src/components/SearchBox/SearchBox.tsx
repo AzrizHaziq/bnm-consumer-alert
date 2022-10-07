@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import React, { ChangeEvent, useContext } from 'react'
 import { ISearchContext, SearchContext } from 'data/Search.context/search.context'
 
 import './SearchBox.scss'
@@ -6,7 +6,7 @@ import './SearchBox.scss'
 export const SearchBox: React.FC = () => {
   const { currentSearch, setSearch } = useContext<ISearchContext>(SearchContext)
 
-  function onChange(e: any) {
+  function onChange(e: ChangeEvent<HTMLInputElement>) {
     const input = e.target.value
     setSearch(input)
   }

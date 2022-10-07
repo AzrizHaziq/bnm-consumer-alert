@@ -3,7 +3,7 @@ import { ConsumerAlertContext, IConsumerContext } from 'data/Consumer.context/co
 import { orderBy } from 'data/consumer-alerts'
 import './Sort.scss'
 
-const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }: { sort: 'asc' | 'desc' }) =>
+const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' | null }> = ({ sort }: { sort: 'asc' | 'desc' | null }) =>
   sort === 'asc' ? (
     // arrow-up
     <svg className="sort__icon-arrow" viewBox="0 0 24 24">
@@ -17,8 +17,8 @@ const ArrowIcon: React.FC<{ sort: 'asc' | 'desc' }> = ({ sort }: { sort: 'asc' |
   ) : null
 
 export const Sort: React.FC = () => {
-  const [alphabetOrder, setAlphabetOrder] = useState<any>(null)
-  const [dateOrder, setDateOrder] = useState<any>(null)
+  const [alphabetOrder, setAlphabetOrder] = useState<'asc' | 'desc' | null>(null)
+  const [dateOrder, setDateOrder] = useState<'asc' | 'desc' | null>(null)
   const { setConsumerList, consumerList } = useContext<IConsumerContext>(ConsumerAlertContext)
 
   function toggleAlphabet() {
@@ -32,7 +32,7 @@ export const Sort: React.FC = () => {
       setAlphabetOrder('asc')
     }
 
-    const orderedByName = orderBy('name', alphabetOrder)(consumerList)
+    const orderedByName = orderBy('name', alphabetOrder as 'asc' | 'desc')(consumerList)
     setConsumerList(orderedByName)
   }
 
@@ -47,7 +47,7 @@ export const Sort: React.FC = () => {
       setDateOrder('asc')
     }
 
-    const orderedByDate = orderBy('added_date', dateOrder)(consumerList)
+    const orderedByDate = orderBy('added_date', dateOrder as 'asc' | 'desc')(consumerList)
     setConsumerList(orderedByDate)
   }
 
